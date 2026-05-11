@@ -1,0 +1,286 @@
+member_id,timestamp,track_name,artist,album,ms_played,skipped,shuffle,offline,private_session,start_reason,end_reason
+4,2025-11-01T00:06:47Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,182433,False,True,False,False,trackdone,trackdone
+4,2025-11-01T01:55:19Z,Chaleya,Arijit Singh,Jawan,83508,True,True,False,False,trackdone,fwdbtn
+4,2025-11-01T08:07:37Z,Kesariya,Arijit Singh,Brahmastra,177842,False,True,False,True,trackdone,trackdone
+4,2025-11-01T20:37:43Z,Husn,Anuv Jain,Husn,210209,False,True,True,False,fwdbtn,trackdone
+4,2025-11-01T21:55:22Z,Softly,Karan Aujla,Making Memories,103889,True,True,False,False,trackdone,fwdbtn
+4,2025-11-02T21:44:29Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,71139,True,False,False,False,trackdone,fwdbtn
+4,2025-11-02T22:59:54Z,Heat Waves,Glass Animals,Dreamland,129271,False,True,False,False,trackdone,trackdone
+4,2025-11-06T07:38:56Z,Ranjha,B Praak,Shershaah,195156,False,False,False,True,appload,trackdone
+4,2025-11-06T18:16:37Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,201432,False,False,False,False,clickrow,endplay
+4,2025-11-06T21:09:42Z,lovely,Billie Eilish,lovely,132723,True,False,True,False,trackdone,fwdbtn
+4,2025-11-06T21:45:35Z,Maan Meri Jaan,King,Champagne Talk,87294,True,True,False,False,backbtn,fwdbtn
+4,2025-11-07T20:02:27Z,O Maahi,Arijit Singh,Dunki,151337,True,True,False,False,appload,fwdbtn
+4,2025-11-08T12:23:42Z,Raabta,Arijit Singh,Agent Vinod,167079,False,False,False,False,trackdone,trackdone
+4,2025-11-09T07:46:52Z,Soulmate,Badshah,Ek Tha Raja,148612,False,True,False,False,appload,trackdone
+4,2025-11-10T21:16:09Z,Blinding Lights,The Weeknd,After Hours,179849,True,True,False,False,trackdone,fwdbtn
+4,2025-11-11T07:05:57Z,Kesariya,Arijit Singh,Brahmastra,248489,False,False,False,False,clickrow,endplay
+4,2025-11-11T21:55:02Z,Sunflower,Post Malone,Hollywoods Bleeding,64326,True,False,False,False,clickrow,fwdbtn
+4,2025-11-11T22:41:19Z,Softly,Karan Aujla,Making Memories,184316,False,False,False,False,trackdone,trackdone
+4,2025-11-12T17:50:35Z,Soulmate,Badshah,Ek Tha Raja,195744,False,False,False,False,fwdbtn,trackdone
+4,2025-11-13T20:46:25Z,Heat Waves,Glass Animals,Dreamland,72866,True,False,False,False,trackdone,fwdbtn
+4,2025-11-15T21:30:39Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,274789,False,True,False,False,trackdone,trackdone
+4,2025-11-15T21:38:43Z,Heeriye,Jasleen Royal,Heeriye,202351,False,False,False,True,fwdbtn,endplay
+4,2025-11-16T07:02:34Z,Kesariya,Arijit Singh,Brahmastra,228449,False,False,False,False,trackdone,trackdone
+4,2025-11-17T17:21:31Z,Apna Bana Le,Arijit Singh,Bhediya,20153,True,False,False,False,trackdone,fwdbtn
+4,2025-11-18T23:40:30Z,Heat Waves,Glass Animals,Dreamland,159747,False,False,False,False,trackdone,endplay
+4,2025-11-19T20:36:08Z,Soulmate,Badshah,Ek Tha Raja,207195,False,False,False,False,trackdone,trackdone
+4,2025-11-19T22:27:13Z,Softly,Karan Aujla,Making Memories,237724,False,True,True,False,trackdone,trackdone
+4,2025-11-20T18:45:38Z,Apna Bana Le,Arijit Singh,Bhediya,260660,False,False,False,False,clickrow,trackdone
+4,2025-11-20T21:00:46Z,Chaleya,Arijit Singh,Jawan,58635,True,True,False,False,trackdone,fwdbtn
+4,2025-11-21T08:20:01Z,Tum Se Hi,Mohit Chauhan,Jab We Met,265137,False,True,True,False,appload,trackdone
+4,2025-11-21T21:12:55Z,Brown Munde,AP Dhillon,Brown Munde,142889,False,True,False,False,appload,trackdone
+4,2025-11-22T20:26:39Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,172935,False,True,False,False,trackdone,trackdone
+4,2025-11-22T21:49:27Z,lovely,Billie Eilish,lovely,197270,False,False,False,True,trackdone,trackdone
+4,2025-11-22T22:22:55Z,Ranjha,B Praak,Shershaah,95677,True,False,False,False,fwdbtn,fwdbtn
+4,2025-11-23T00:56:56Z,Chaleya,Arijit Singh,Jawan,191291,False,False,False,False,trackdone,trackdone
+4,2025-11-24T21:39:36Z,Night Changes,One Direction,FOUR,132155,True,True,False,False,fwdbtn,fwdbtn
+4,2025-11-25T20:17:04Z,Obsessed,Riar Saab,Obsessed,24348,True,True,False,False,appload,fwdbtn
+4,2025-11-26T21:57:24Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,216794,False,True,False,False,appload,trackdone
+4,2025-11-27T08:23:27Z,Blinding Lights,The Weeknd,After Hours,113548,True,False,False,False,backbtn,fwdbtn
+4,2025-11-27T17:09:14Z,Blinding Lights,The Weeknd,After Hours,208978,False,False,False,False,trackdone,trackdone
+4,2025-11-29T00:13:01Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,219668,False,False,False,False,clickrow,trackdone
+4,2025-11-29T18:13:26Z,Kesariya,Arijit Singh,Brahmastra,227555,False,True,False,False,clickrow,trackdone
+4,2025-11-30T00:30:47Z,Heeriye,Jasleen Royal,Heeriye,166940,False,True,False,False,trackdone,trackdone
+4,2025-11-30T07:52:42Z,Raabta,Arijit Singh,Agent Vinod,50880,True,True,False,False,trackdone,fwdbtn
+4,2025-11-30T22:17:24Z,Raabta,Arijit Singh,Agent Vinod,219804,False,False,False,False,backbtn,trackdone
+4,2025-12-01T23:38:57Z,Sunflower,Post Malone,Hollywoods Bleeding,139394,False,False,False,False,trackdone,trackdone
+4,2025-12-01T23:42:40Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,31881,True,False,False,False,trackdone,fwdbtn
+4,2025-12-02T13:15:18Z,Soulmate,Badshah,Ek Tha Raja,143045,True,True,False,False,fwdbtn,fwdbtn
+4,2025-12-04T23:26:22Z,Raabta,Arijit Singh,Agent Vinod,187568,False,False,False,False,trackdone,trackdone
+4,2025-12-05T17:17:42Z,Apna Bana Le,Arijit Singh,Bhediya,195503,False,False,True,False,clickrow,trackdone
+4,2025-12-05T20:26:34Z,Brown Munde,AP Dhillon,Brown Munde,89478,True,True,False,False,clickrow,fwdbtn
+4,2025-12-06T01:56:20Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,258276,False,True,False,False,trackdone,trackdone
+4,2025-12-07T00:41:24Z,Kesariya,Arijit Singh,Brahmastra,187514,False,False,False,False,fwdbtn,trackdone
+4,2025-12-07T18:07:37Z,Soulmate,Badshah,Ek Tha Raja,247572,False,True,False,False,trackdone,endplay
+4,2025-12-08T13:57:43Z,Blinding Lights,The Weeknd,After Hours,57692,True,True,False,False,trackdone,fwdbtn
+4,2025-12-08T20:03:20Z,Raabta,Arijit Singh,Agent Vinod,75320,True,True,False,False,backbtn,fwdbtn
+4,2025-12-08T20:49:52Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,175319,False,False,False,False,clickrow,endplay
+4,2025-12-08T21:51:32Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,190617,False,True,False,False,appload,endplay
+4,2025-12-09T22:55:58Z,Soulmate,Badshah,Ek Tha Raja,177594,False,True,False,False,clickrow,trackdone
+4,2025-12-10T00:57:17Z,Softly,Karan Aujla,Making Memories,266216,False,True,False,False,appload,endplay
+4,2025-12-10T21:30:55Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,230180,False,True,False,False,trackdone,endplay
+4,2025-12-12T21:57:41Z,Soulmate,Badshah,Ek Tha Raja,227043,False,False,False,False,trackdone,trackdone
+4,2025-12-13T21:35:14Z,Heat Waves,Glass Animals,Dreamland,165992,False,True,False,False,trackdone,trackdone
+4,2025-12-15T20:05:44Z,Kesariya,Arijit Singh,Brahmastra,114144,True,True,False,False,trackdone,fwdbtn
+4,2025-12-15T21:37:04Z,Apna Bana Le,Arijit Singh,Bhediya,207348,False,False,False,False,clickrow,trackdone
+4,2025-12-17T13:12:48Z,Softly,Karan Aujla,Making Memories,151789,False,False,True,True,fwdbtn,trackdone
+4,2025-12-18T12:07:36Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,200992,False,False,False,False,trackdone,trackdone
+4,2025-12-18T13:47:25Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,102812,True,True,False,False,trackdone,fwdbtn
+4,2025-12-18T20:20:31Z,Obsessed,Riar Saab,Obsessed,236850,False,False,False,True,trackdone,trackdone
+4,2025-12-18T21:58:52Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,82917,True,True,False,False,trackdone,fwdbtn
+4,2025-12-18T23:43:57Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,217781,False,False,False,False,backbtn,trackdone
+4,2025-12-19T00:02:48Z,Soulmate,Badshah,Ek Tha Raja,171347,False,True,False,False,clickrow,endplay
+4,2025-12-20T17:07:39Z,Softly,Karan Aujla,Making Memories,55020,True,False,False,False,appload,fwdbtn
+4,2025-12-21T00:36:20Z,O Maahi,Arijit Singh,Dunki,238158,False,True,False,False,clickrow,endplay
+4,2025-12-21T07:08:18Z,Maan Meri Jaan,King,Champagne Talk,171385,False,True,False,False,appload,trackdone
+4,2025-12-21T21:34:52Z,Brown Munde,AP Dhillon,Brown Munde,133399,False,False,False,False,clickrow,trackdone
+4,2025-12-23T18:03:17Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,242663,False,True,False,False,trackdone,trackdone
+4,2025-12-23T22:48:02Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,28242,True,True,False,True,clickrow,fwdbtn
+4,2025-12-24T18:18:29Z,Kesariya,Arijit Singh,Brahmastra,196207,False,False,False,True,backbtn,trackdone
+4,2025-12-24T20:39:55Z,Tum Se Hi,Mohit Chauhan,Jab We Met,200965,False,False,False,False,trackdone,trackdone
+4,2025-12-25T00:53:32Z,Chaleya,Arijit Singh,Jawan,252568,False,True,False,False,fwdbtn,trackdone
+4,2025-12-25T18:11:18Z,lovely,Billie Eilish,lovely,166501,False,False,True,False,trackdone,trackdone
+4,2025-12-26T00:08:52Z,Raabta,Arijit Singh,Agent Vinod,43940,True,True,False,False,clickrow,fwdbtn
+4,2025-12-26T00:41:29Z,Soulmate,Badshah,Ek Tha Raja,148680,False,True,False,False,trackdone,trackdone
+4,2025-12-26T23:57:05Z,Soulmate,Badshah,Ek Tha Raja,218079,False,True,False,False,trackdone,trackdone
+4,2025-12-27T21:33:45Z,O Maahi,Arijit Singh,Dunki,233587,False,True,False,False,fwdbtn,trackdone
+4,2025-12-28T00:32:52Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,280912,False,False,True,False,appload,trackdone
+4,2025-12-29T20:37:12Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,13107,True,False,False,False,clickrow,fwdbtn
+4,2025-12-30T08:49:11Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,215054,False,True,False,False,trackdone,endplay
+4,2025-12-30T17:21:09Z,Heat Waves,Glass Animals,Dreamland,79580,True,True,False,False,trackdone,fwdbtn
+4,2025-12-30T20:55:45Z,Softly,Karan Aujla,Making Memories,161079,False,False,False,False,fwdbtn,endplay
+4,2025-12-31T08:10:26Z,Soulmate,Badshah,Ek Tha Raja,172877,False,False,True,False,fwdbtn,trackdone
+4,2025-12-31T20:09:07Z,Chaleya,Arijit Singh,Jawan,59115,True,False,False,False,fwdbtn,fwdbtn
+4,2025-12-31T20:41:45Z,Ranjha,B Praak,Shershaah,108314,True,False,False,False,trackdone,fwdbtn
+4,2026-01-01T20:20:03Z,Chaleya,Arijit Singh,Jawan,231811,False,False,False,False,appload,trackdone
+4,2026-01-01T21:15:52Z,Soulmate,Badshah,Ek Tha Raja,173638,False,True,False,False,appload,trackdone
+4,2026-01-03T18:54:48Z,O Maahi,Arijit Singh,Dunki,27770,True,True,False,False,appload,fwdbtn
+4,2026-01-03T22:54:54Z,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,19226,True,True,True,False,trackdone,fwdbtn
+4,2026-01-04T22:57:39Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,269443,False,True,False,False,trackdone,trackdone
+4,2026-01-06T21:06:39Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,227150,False,True,False,False,backbtn,trackdone
+4,2026-01-06T21:24:24Z,Raabta,Arijit Singh,Agent Vinod,88080,True,False,False,False,fwdbtn,fwdbtn
+4,2026-01-07T09:16:10Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,199370,False,False,False,False,trackdone,trackdone
+4,2026-01-08T17:30:41Z,Kesariya,Arijit Singh,Brahmastra,276460,False,True,False,False,trackdone,trackdone
+4,2026-01-08T20:22:43Z,Brown Munde,AP Dhillon,Brown Munde,242647,False,True,False,False,trackdone,trackdone
+4,2026-01-10T12:33:23Z,Ranjha,B Praak,Shershaah,194390,False,False,False,False,trackdone,trackdone
+4,2026-01-10T12:39:45Z,As It Was,Harry Styles,Harrys House,189369,False,True,False,False,trackdone,trackdone
+4,2026-01-10T12:45:21Z,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,196065,False,True,False,False,trackdone,trackdone
+4,2026-01-10T18:50:03Z,Soulmate,Badshah,Ek Tha Raja,208636,False,True,False,False,fwdbtn,trackdone
+4,2026-01-10T20:52:54Z,Chaleya,Arijit Singh,Jawan,42159,True,False,False,False,trackdone,fwdbtn
+4,2026-01-10T22:57:30Z,Chaleya,Arijit Singh,Jawan,200363,False,False,False,False,trackdone,trackdone
+4,2026-01-11T07:23:40Z,Brown Munde,AP Dhillon,Brown Munde,109277,True,False,False,True,clickrow,fwdbtn
+4,2026-01-11T21:38:18Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,228849,False,False,False,False,clickrow,trackdone
+4,2026-01-12T23:15:19Z,Kesariya,Arijit Singh,Brahmastra,73791,True,False,True,False,trackdone,fwdbtn
+4,2026-01-12T23:52:22Z,Soulmate,Badshah,Ek Tha Raja,230478,False,False,False,False,trackdone,trackdone
+4,2026-01-14T17:52:47Z,Sunflower,Post Malone,Hollywoods Bleeding,124390,False,False,False,True,trackdone,trackdone
+4,2026-01-15T23:07:01Z,Heat Waves,Glass Animals,Dreamland,32991,True,True,False,False,fwdbtn,fwdbtn
+4,2026-01-15T23:22:16Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,138767,True,False,False,False,trackdone,fwdbtn
+4,2026-01-16T22:28:28Z,Chaleya,Arijit Singh,Jawan,84632,True,True,True,False,fwdbtn,fwdbtn
+4,2026-01-17T20:02:29Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,186179,False,True,False,False,fwdbtn,trackdone
+4,2026-01-18T13:04:39Z,Husn,Anuv Jain,Husn,214981,False,False,False,False,clickrow,trackdone
+4,2026-01-19T18:23:40Z,Husn,Anuv Jain,Husn,120140,True,True,False,False,clickrow,fwdbtn
+4,2026-01-19T20:25:45Z,lovely,Billie Eilish,lovely,224946,False,True,False,False,appload,trackdone
+4,2026-01-19T21:53:38Z,O Maahi,Arijit Singh,Dunki,223023,False,True,False,True,trackdone,trackdone
+4,2026-01-21T20:09:29Z,Soulmate,Badshah,Ek Tha Raja,55782,True,True,False,False,fwdbtn,fwdbtn
+4,2026-01-21T20:29:45Z,Obsessed,Riar Saab,Obsessed,22491,True,True,False,False,backbtn,fwdbtn
+4,2026-01-24T23:15:30Z,Apna Bana Le,Arijit Singh,Bhediya,47835,True,False,False,True,appload,fwdbtn
+4,2026-01-25T18:57:40Z,Kesariya,Arijit Singh,Brahmastra,228959,False,True,False,False,fwdbtn,trackdone
+4,2026-01-25T20:11:00Z,Raabta,Arijit Singh,Agent Vinod,61128,True,False,False,False,clickrow,fwdbtn
+4,2026-01-25T21:47:13Z,Blinding Lights,The Weeknd,After Hours,227489,False,False,True,False,trackdone,trackdone
+4,2026-01-25T21:48:49Z,Raabta,Arijit Singh,Agent Vinod,140106,True,True,False,True,trackdone,fwdbtn
+4,2026-01-25T22:39:09Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,140918,False,False,True,False,trackdone,trackdone
+4,2026-01-26T09:22:23Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,98219,True,True,True,False,fwdbtn,fwdbtn
+4,2026-01-28T21:37:09Z,Heeriye,Jasleen Royal,Heeriye,154744,False,True,False,False,trackdone,endplay
+4,2026-01-28T22:14:46Z,Kesariya,Arijit Singh,Brahmastra,200935,False,False,False,False,fwdbtn,trackdone
+4,2026-01-29T21:12:24Z,Soulmate,Badshah,Ek Tha Raja,161031,False,False,False,False,trackdone,trackdone
+4,2026-01-30T00:55:31Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,75670,True,True,False,False,clickrow,fwdbtn
+4,2026-01-30T22:28:18Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,214733,False,True,False,False,trackdone,trackdone
+4,2026-01-31T20:09:43Z,Husn,Anuv Jain,Husn,154995,False,True,False,False,clickrow,endplay
+4,2026-01-31T22:17:29Z,Chaleya,Arijit Singh,Jawan,61961,True,True,False,True,appload,fwdbtn
+4,2026-01-31T22:57:35Z,Chaleya,Arijit Singh,Jawan,12126,True,False,False,False,trackdone,fwdbtn
+4,2026-02-02T00:04:09Z,Brown Munde,AP Dhillon,Brown Munde,175605,False,False,False,False,clickrow,trackdone
+4,2026-02-02T22:22:03Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,12635,True,False,False,False,trackdone,fwdbtn
+4,2026-02-03T22:35:53Z,Blinding Lights,The Weeknd,After Hours,81692,True,True,False,False,trackdone,fwdbtn
+4,2026-02-03T22:36:21Z,Kesariya,Arijit Singh,Brahmastra,170497,False,False,False,False,fwdbtn,trackdone
+4,2026-02-05T09:12:35Z,Brown Munde,AP Dhillon,Brown Munde,87937,True,True,False,True,trackdone,fwdbtn
+4,2026-02-05T13:16:51Z,Apna Bana Le,Arijit Singh,Bhediya,196251,False,True,False,False,backbtn,trackdone
+4,2026-02-06T23:44:11Z,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,110746,True,False,False,False,trackdone,fwdbtn
+4,2026-02-07T00:18:37Z,O Maahi,Arijit Singh,Dunki,212139,False,True,False,False,trackdone,trackdone
+4,2026-02-07T22:43:05Z,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,49913,True,True,False,False,appload,fwdbtn
+4,2026-02-08T17:52:02Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,209277,False,True,True,False,trackdone,trackdone
+4,2026-02-08T18:57:39Z,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,164943,False,False,False,False,appload,trackdone
+4,2026-02-08T21:33:00Z,Tum Se Hi,Mohit Chauhan,Jab We Met,205805,False,True,True,False,clickrow,trackdone
+4,2026-02-09T20:24:22Z,As It Was,Harry Styles,Harrys House,24476,True,False,True,False,trackdone,fwdbtn
+4,2026-02-10T12:25:55Z,Tum Se Hi,Mohit Chauhan,Jab We Met,257580,False,False,False,False,clickrow,trackdone
+4,2026-02-10T22:08:08Z,Ranjha,B Praak,Shershaah,143483,False,True,False,False,trackdone,trackdone
+4,2026-02-12T21:50:13Z,Brown Munde,AP Dhillon,Brown Munde,181849,False,True,False,False,appload,trackdone
+4,2026-02-14T22:59:26Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,84369,True,True,False,True,clickrow,fwdbtn
+4,2026-02-15T21:09:52Z,Chaleya,Arijit Singh,Jawan,219221,False,False,True,False,trackdone,endplay
+4,2026-02-15T21:28:23Z,Soulmate,Badshah,Ek Tha Raja,51857,True,True,False,False,clickrow,fwdbtn
+4,2026-02-16T22:38:02Z,Husn,Anuv Jain,Husn,167875,False,True,False,False,clickrow,trackdone
+4,2026-02-17T08:21:07Z,Phir Le Aaya Dil,Arijit Singh,Barfi!,41475,True,True,False,False,fwdbtn,fwdbtn
+4,2026-02-17T12:26:49Z,Chaleya,Arijit Singh,Jawan,84223,True,True,True,False,fwdbtn,fwdbtn
+4,2026-02-17T23:32:31Z,Satranga,Arijit Singh,Animal,94035,True,False,False,False,trackdone,fwdbtn
+4,2026-02-18T07:35:16Z,Kesariya,Arijit Singh,Brahmastra,121722,True,False,False,False,appload,fwdbtn
+4,2026-02-18T08:59:03Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,157405,False,True,False,False,trackdone,trackdone
+4,2026-02-19T08:42:12Z,Ranjha,B Praak,Shershaah,186138,False,False,False,False,clickrow,trackdone
+4,2026-02-21T22:47:40Z,Kesariya,Arijit Singh,Brahmastra,87265,True,True,False,False,appload,fwdbtn
+4,2026-02-23T21:05:43Z,Perfect,Ed Sheeran,Divide,161933,True,True,False,False,trackdone,fwdbtn
+4,2026-02-23T21:48:13Z,Kesariya,Arijit Singh,Brahmastra,163535,False,False,False,False,trackdone,trackdone
+4,2026-02-23T23:39:28Z,Tum Se Hi,Mohit Chauhan,Jab We Met,162566,False,False,False,False,trackdone,trackdone
+4,2026-02-24T22:06:12Z,Obsessed,Riar Saab,Obsessed,252218,False,True,False,False,trackdone,trackdone
+4,2026-02-24T22:31:06Z,Kesariya,Arijit Singh,Brahmastra,235664,False,False,False,False,clickrow,trackdone
+4,2026-02-26T07:31:28Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,99245,True,False,False,False,clickrow,fwdbtn
+4,2026-02-26T20:12:21Z,Night Changes,One Direction,FOUR,267885,False,True,False,False,trackdone,trackdone
+4,2026-02-27T21:28:45Z,Brown Munde,AP Dhillon,Brown Munde,236267,False,False,False,False,fwdbtn,trackdone
+4,2026-02-28T20:32:11Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,73184,True,True,True,False,backbtn,fwdbtn
+4,2026-02-28T21:48:00Z,Soulmate,Badshah,Ek Tha Raja,184389,False,True,False,False,trackdone,trackdone
+4,2026-03-01T17:49:59Z,Apna Bana Le,Arijit Singh,Bhediya,241204,False,True,False,True,clickrow,trackdone
+4,2026-03-02T08:06:46Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,23095,True,True,False,False,clickrow,fwdbtn
+4,2026-03-02T20:37:09Z,Perfect,Ed Sheeran,Divide,141607,False,False,False,False,trackdone,trackdone
+4,2026-03-02T23:19:34Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,194096,False,True,False,False,appload,trackdone
+4,2026-03-03T22:34:33Z,O Maahi,Arijit Singh,Dunki,32810,True,True,False,False,fwdbtn,fwdbtn
+4,2026-03-03T22:54:40Z,Raabta,Arijit Singh,Agent Vinod,54750,True,False,False,False,trackdone,fwdbtn
+4,2026-03-03T23:29:32Z,Husn,Anuv Jain,Husn,273917,False,False,False,True,clickrow,endplay
+4,2026-03-06T12:23:55Z,Maan Meri Jaan,King,Champagne Talk,27437,True,False,False,False,appload,fwdbtn
+4,2026-03-06T21:24:47Z,Soulmate,Badshah,Ek Tha Raja,155805,False,True,False,False,appload,trackdone
+4,2026-03-07T08:53:08Z,Night Changes,One Direction,FOUR,138276,False,False,False,False,trackdone,endplay
+4,2026-03-08T20:28:46Z,Kesariya,Arijit Singh,Brahmastra,243058,False,True,False,False,fwdbtn,trackdone
+4,2026-03-08T22:21:44Z,Soulmate,Badshah,Ek Tha Raja,133017,False,True,False,False,trackdone,trackdone
+4,2026-03-09T21:45:57Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,167775,False,True,True,False,trackdone,endplay
+4,2026-03-10T20:53:21Z,Raabta,Arijit Singh,Agent Vinod,15814,True,False,False,False,appload,fwdbtn
+4,2026-03-10T22:59:51Z,Ranjha,B Praak,Shershaah,157114,False,False,False,False,trackdone,trackdone
+4,2026-03-11T07:48:26Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,236249,False,True,False,False,trackdone,endplay
+4,2026-03-12T13:26:03Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,134512,True,True,True,False,trackdone,fwdbtn
+4,2026-03-12T13:49:59Z,Soulmate,Badshah,Ek Tha Raja,198770,False,True,False,False,trackdone,endplay
+4,2026-03-12T17:29:53Z,Husn,Anuv Jain,Husn,204414,False,False,False,False,trackdone,trackdone
+4,2026-03-12T21:10:57Z,Softly,Karan Aujla,Making Memories,34250,True,False,False,False,backbtn,fwdbtn
+4,2026-03-12T21:41:09Z,Apna Bana Le,Arijit Singh,Bhediya,219207,False,False,False,False,clickrow,trackdone
+4,2026-03-13T23:14:08Z,As It Was,Harry Styles,Harrys House,261480,False,True,False,False,trackdone,trackdone
+4,2026-03-14T00:16:08Z,Apna Bana Le,Arijit Singh,Bhediya,231302,False,True,False,False,fwdbtn,trackdone
+4,2026-03-14T00:20:17Z,Maan Meri Jaan,King,Champagne Talk,154696,True,False,False,False,trackdone,fwdbtn
+4,2026-03-14T21:28:55Z,Softly,Karan Aujla,Making Memories,34706,True,False,False,False,trackdone,fwdbtn
+4,2026-03-14T22:10:08Z,Soulmate,Badshah,Ek Tha Raja,251068,False,True,False,False,fwdbtn,trackdone
+4,2026-03-14T22:56:35Z,Raabta,Arijit Singh,Agent Vinod,137245,False,True,False,False,trackdone,trackdone
+4,2026-03-15T00:50:18Z,Brown Munde,AP Dhillon,Brown Munde,34311,True,False,False,False,trackdone,fwdbtn
+4,2026-03-15T22:21:35Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,203248,False,True,False,False,fwdbtn,trackdone
+4,2026-03-16T07:04:31Z,Tum Se Hi,Mohit Chauhan,Jab We Met,253356,False,True,False,False,trackdone,trackdone
+4,2026-03-16T22:02:11Z,Kesariya,Arijit Singh,Brahmastra,175543,False,False,False,False,fwdbtn,endplay
+4,2026-03-17T01:00:48Z,Raabta,Arijit Singh,Agent Vinod,256063,False,False,False,False,trackdone,trackdone
+4,2026-03-17T22:21:04Z,Raabta,Arijit Singh,Agent Vinod,237378,False,True,False,True,trackdone,trackdone
+4,2026-03-18T21:40:36Z,Satranga,Arijit Singh,Animal,181881,False,True,False,False,trackdone,trackdone
+4,2026-03-19T22:52:22Z,Chaleya,Arijit Singh,Jawan,30413,True,False,False,False,trackdone,fwdbtn
+4,2026-03-20T18:13:44Z,Maan Meri Jaan,King,Champagne Talk,46015,True,False,True,False,trackdone,fwdbtn
+4,2026-03-20T22:49:31Z,Chaleya,Arijit Singh,Jawan,152483,False,True,False,False,trackdone,trackdone
+4,2026-03-21T23:56:46Z,Apna Bana Le,Arijit Singh,Bhediya,90844,True,True,False,False,trackdone,fwdbtn
+4,2026-03-22T21:57:05Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,106722,True,False,False,False,trackdone,fwdbtn
+4,2026-03-23T18:25:13Z,Raabta,Arijit Singh,Agent Vinod,192992,False,False,False,False,clickrow,trackdone
+4,2026-03-23T20:50:14Z,Kesariya,Arijit Singh,Brahmastra,100774,True,True,False,False,trackdone,fwdbtn
+4,2026-03-24T01:26:47Z,Apna Bana Le,Arijit Singh,Bhediya,209647,False,True,False,False,appload,trackdone
+4,2026-03-25T18:44:22Z,As It Was,Harry Styles,Harrys House,203983,False,False,False,False,trackdone,trackdone
+4,2026-03-25T20:49:26Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,21013,True,True,False,False,clickrow,fwdbtn
+4,2026-03-25T21:13:34Z,O Maahi,Arijit Singh,Dunki,197605,False,False,False,False,trackdone,trackdone
+4,2026-03-25T21:29:43Z,Husn,Anuv Jain,Husn,233855,False,True,True,False,trackdone,trackdone
+4,2026-03-26T21:34:17Z,Heat Waves,Glass Animals,Dreamland,168130,False,False,False,False,clickrow,trackdone
+4,2026-03-27T00:29:59Z,Soulmate,Badshah,Ek Tha Raja,191375,False,True,False,False,appload,trackdone
+4,2026-03-27T21:27:57Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,161094,False,False,False,False,clickrow,trackdone
+4,2026-03-28T01:29:28Z,Sunflower,Post Malone,Hollywoods Bleeding,213280,False,True,False,False,fwdbtn,trackdone
+4,2026-03-29T23:09:34Z,Soulmate,Badshah,Ek Tha Raja,141598,False,False,False,False,trackdone,endplay
+4,2026-03-30T17:47:09Z,Heeriye,Jasleen Royal,Heeriye,46231,True,False,False,False,trackdone,fwdbtn
+4,2026-03-30T21:27:26Z,Soulmate,Badshah,Ek Tha Raja,229381,False,False,True,False,trackdone,trackdone
+4,2026-03-31T00:58:39Z,Raabta,Arijit Singh,Agent Vinod,135151,True,False,False,False,appload,fwdbtn
+4,2026-03-31T21:03:06Z,Obsessed,Riar Saab,Obsessed,41297,True,True,False,False,backbtn,fwdbtn
+4,2026-03-31T22:02:45Z,Raabta,Arijit Singh,Agent Vinod,243624,False,True,False,False,clickrow,trackdone
+4,2026-03-31T23:29:28Z,Kesariya,Arijit Singh,Brahmastra,251076,False,True,False,False,trackdone,trackdone
+4,2026-04-01T13:40:18Z,Soulmate,Badshah,Ek Tha Raja,107096,True,True,False,True,clickrow,fwdbtn
+4,2026-04-01T17:14:01Z,Chaleya,Arijit Singh,Jawan,102910,True,True,False,False,trackdone,fwdbtn
+4,2026-04-01T18:08:36Z,Kesariya,Arijit Singh,Brahmastra,176451,False,False,False,False,trackdone,trackdone
+4,2026-04-02T20:34:14Z,Brown Munde,AP Dhillon,Brown Munde,259549,False,False,False,False,clickrow,trackdone
+4,2026-04-02T22:33:28Z,Chaleya,Arijit Singh,Jawan,243786,False,True,False,False,fwdbtn,trackdone
+4,2026-04-05T00:11:20Z,Chaleya,Arijit Singh,Jawan,249161,False,True,False,False,clickrow,trackdone
+4,2026-04-05T07:13:17Z,Raabta,Arijit Singh,Agent Vinod,164908,False,False,True,False,fwdbtn,endplay
+4,2026-04-05T21:43:55Z,Blinding Lights,The Weeknd,After Hours,21682,True,True,True,True,clickrow,fwdbtn
+4,2026-04-05T21:57:54Z,Maan Meri Jaan,King,Champagne Talk,24926,True,False,False,False,fwdbtn,fwdbtn
+4,2026-04-06T17:00:37Z,Apna Bana Le,Arijit Singh,Bhediya,110054,True,False,False,False,appload,fwdbtn
+4,2026-04-06T21:30:22Z,Apna Bana Le,Arijit Singh,Bhediya,224096,False,True,False,False,fwdbtn,trackdone
+4,2026-04-06T22:57:52Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,217674,False,False,False,False,trackdone,trackdone
+4,2026-04-07T22:25:39Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,142873,False,True,False,False,trackdone,trackdone
+4,2026-04-08T23:58:53Z,Apna Bana Le,Arijit Singh,Bhediya,211797,False,True,False,False,trackdone,endplay
+4,2026-04-10T20:54:30Z,Maan Meri Jaan,King,Champagne Talk,209252,False,False,False,False,trackdone,trackdone
+4,2026-04-11T12:20:52Z,Softly,Karan Aujla,Making Memories,19442,True,True,False,True,trackdone,fwdbtn
+4,2026-04-12T01:20:12Z,lovely,Billie Eilish,lovely,147086,True,False,False,True,clickrow,fwdbtn
+4,2026-04-12T21:26:26Z,Tum Se Hi,Mohit Chauhan,Jab We Met,170798,False,True,False,False,clickrow,trackdone
+4,2026-04-13T22:58:50Z,Heeriye,Jasleen Royal,Heeriye,196047,False,True,False,False,trackdone,trackdone
+4,2026-04-14T09:46:49Z,Raabta,Arijit Singh,Agent Vinod,229677,False,False,False,False,trackdone,trackdone
+4,2026-04-14T21:08:39Z,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,48130,True,True,True,False,trackdone,fwdbtn
+4,2026-04-15T07:48:19Z,Soulmate,Badshah,Ek Tha Raja,198930,False,False,False,False,fwdbtn,trackdone
+4,2026-04-15T22:43:22Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,263558,False,True,False,False,trackdone,trackdone
+4,2026-04-15T23:37:26Z,Maan Meri Jaan,King,Champagne Talk,168082,False,False,False,False,trackdone,trackdone
+4,2026-04-16T13:06:19Z,Heat Waves,Glass Animals,Dreamland,160838,False,False,True,False,trackdone,endplay
+4,2026-04-16T17:04:57Z,Husn,Anuv Jain,Husn,95635,True,True,False,False,trackdone,fwdbtn
+4,2026-04-17T20:32:15Z,Someone You Loved,Lewis Capaldi,Divinely Uninspired,236028,False,False,False,False,trackdone,trackdone
+4,2026-04-18T00:55:56Z,Obsessed,Riar Saab,Obsessed,227810,False,False,False,False,fwdbtn,trackdone
+4,2026-04-18T17:52:18Z,Apna Bana Le,Arijit Singh,Bhediya,166918,False,True,False,False,clickrow,trackdone
+4,2026-04-18T22:44:58Z,Softly,Karan Aujla,Making Memories,170474,False,True,False,False,trackdone,endplay
+4,2026-04-20T12:12:04Z,lovely,Billie Eilish,lovely,148197,False,True,False,False,appload,trackdone
+4,2026-04-20T20:42:48Z,Kesariya,Arijit Singh,Brahmastra,213568,False,False,False,False,trackdone,endplay
+4,2026-04-20T22:50:24Z,Husn,Anuv Jain,Husn,82057,True,False,False,False,trackdone,fwdbtn
+4,2026-04-21T20:09:03Z,Night Changes,One Direction,FOUR,83016,True,False,False,False,clickrow,fwdbtn
+4,2026-04-21T20:11:32Z,Agar Tum Saath Ho,Alka Yagnik,Tamasha,181137,False,False,False,False,fwdbtn,trackdone
+4,2026-04-21T22:39:02Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,81437,True,False,False,False,trackdone,fwdbtn
+4,2026-04-22T20:54:02Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,79340,True,False,False,False,trackdone,fwdbtn
+4,2026-04-22T22:35:32Z,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,222506,False,False,False,False,trackdone,trackdone
+4,2026-04-23T00:40:08Z,Brown Munde,AP Dhillon,Brown Munde,51181,True,True,False,False,trackdone,fwdbtn
+4,2026-04-23T22:02:23Z,Obsessed,Riar Saab,Obsessed,201685,False,True,True,False,fwdbtn,endplay
+4,2026-04-24T20:49:45Z,Softly,Karan Aujla,Making Memories,173025,False,True,False,False,trackdone,trackdone
+4,2026-04-25T21:54:57Z,Heat Waves,Glass Animals,Dreamland,31210,True,False,False,True,clickrow,fwdbtn
+4,2026-04-26T18:15:42Z,Night Changes,One Direction,FOUR,83974,True,True,False,False,clickrow,fwdbtn
+4,2026-04-26T20:16:42Z,Soulmate,Badshah,Ek Tha Raja,129733,False,False,False,False,backbtn,endplay
+4,2026-04-27T07:10:06Z,Husn,Anuv Jain,Husn,152488,False,False,False,False,trackdone,trackdone
+4,2026-04-27T23:42:35Z,Night Changes,One Direction,FOUR,86967,True,True,False,False,trackdone,fwdbtn
+4,2026-04-28T09:10:22Z,Raabta,Arijit Singh,Agent Vinod,173123,False,False,False,False,trackdone,trackdone
+4,2026-04-30T01:34:59Z,Soulmate,Badshah,Ek Tha Raja,70672,True,True,False,False,trackdone,fwdbtn
+4,2026-04-30T17:24:37Z,Raabta,Arijit Singh,Agent Vinod,115083,True,True,False,False,clickrow,fwdbtn
+4,2026-04-30T22:42:45Z,Raabta,Arijit Singh,Agent Vinod,239073,False,True,False,False,trackdone,trackdone
+4,2026-04-30T22:48:57Z,Softly,Karan Aujla,Making Memories,156519,False,True,False,False,clickrow,trackdone

@@ -1,0 +1,286 @@
+member_id,timestamp,day_of_week,hour_of_day,track_name,artist,album,language,genre,ms_played,skipped,shuffle,offline,private_session,start_reason,end_reason,danceability,energy,valence,tempo,acousticness,speechiness,instrumentalness,loudness,popularity
+4,2025-11-01T00:06:47Z,Saturday,0,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,182433,False,True,False,False,trackdone,trackdone,0.473,0.395,0.34,105.38,0.616,0.026,0.0,-8.96,83
+4,2025-11-01T01:55:19Z,Saturday,1,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,83508,True,True,False,False,trackdone,fwdbtn,0.719,0.645,0.789,102.18,0.204,0.042,0.0,-7.65,82
+4,2025-11-01T08:07:37Z,Saturday,8,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,177842,False,True,False,True,trackdone,trackdone,0.565,0.644,0.699,87.82,0.317,0.035,0.0,-7.16,84
+4,2025-11-01T20:37:43Z,Saturday,20,Husn,Anuv Jain,Husn,Hindi,Indie,210209,False,True,True,False,fwdbtn,trackdone,0.42,0.303,0.317,75.46,0.648,0.033,0.002,-10.95,69
+4,2025-11-01T21:55:22Z,Saturday,21,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,103889,True,True,False,False,trackdone,fwdbtn,0.75,0.689,0.579,124.85,0.116,0.1,0.0,-5.44,84
+4,2025-11-02T21:44:29Z,Sunday,21,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,71139,True,False,False,False,trackdone,fwdbtn,0.422,0.367,0.191,73.1,0.878,0.043,0.0,-13.28,66
+4,2025-11-02T22:59:54Z,Sunday,22,Heat Waves,Glass Animals,Dreamland,English,Indie,129271,False,True,False,False,trackdone,trackdone,0.78,0.673,0.452,81.61,0.189,0.07,0.0,-6.42,82
+4,2025-11-06T07:38:56Z,Thursday,7,Ranjha,B Praak,Shershaah,Hindi,Bollywood,195156,False,False,False,True,appload,trackdone,0.48,0.52,0.366,92.94,0.553,0.043,0.003,-10.72,83
+4,2025-11-06T18:16:37Z,Thursday,18,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,201432,False,False,False,False,clickrow,endplay,0.521,0.433,0.32,115.7,0.573,0.062,0.0,-8.92,79
+4,2025-11-06T21:09:42Z,Thursday,21,lovely,Billie Eilish,lovely,English,Pop,132723,True,False,True,False,trackdone,fwdbtn,0.478,0.255,0.292,115.72,0.625,0.048,0.0,-11.06,73
+4,2025-11-06T21:45:35Z,Thursday,21,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,87294,True,True,False,False,backbtn,fwdbtn,0.721,0.594,0.699,122.76,0.103,0.08,0.008,-6.58,78
+4,2025-11-07T20:02:27Z,Friday,20,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,151337,True,True,False,False,appload,fwdbtn,0.537,0.425,0.445,84.76,0.527,0.008,0.0,-10.47,66
+4,2025-11-08T12:23:42Z,Saturday,12,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,167079,False,False,False,False,trackdone,trackdone,0.573,0.486,0.613,109.01,0.397,0.02,0.003,-9.58,75
+4,2025-11-09T07:46:52Z,Sunday,7,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,148612,False,True,False,False,appload,trackdone,0.721,0.678,0.632,123.23,0.129,0.124,0.0,-6.55,70
+4,2025-11-10T21:16:09Z,Monday,21,Blinding Lights,The Weeknd,After Hours,English,Pop,179849,True,True,False,False,trackdone,fwdbtn,0.771,0.746,0.713,171.63,0.044,0.077,0.002,-3.85,86
+4,2025-11-11T07:05:57Z,Tuesday,7,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,248489,False,False,False,False,clickrow,endplay,0.632,0.584,0.705,90.12,0.215,0.035,0.004,-6.89,86
+4,2025-11-11T21:55:02Z,Tuesday,21,Sunflower,Post Malone,Hollywoods Bleeding,English,Hip-Hop,64326,True,False,False,False,clickrow,fwdbtn,0.779,0.632,0.764,95.22,0.26,0.053,0.008,-5.01,87
+4,2025-11-11T22:41:19Z,Tuesday,22,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,184316,False,False,False,False,trackdone,trackdone,0.727,0.634,0.559,125.67,0.14,0.099,0.0,-6.52,83
+4,2025-11-12T17:50:35Z,Wednesday,17,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,195744,False,False,False,False,fwdbtn,trackdone,0.697,0.701,0.682,112.59,0.185,0.113,0.0,-4.66,85
+4,2025-11-13T20:46:25Z,Thursday,20,Heat Waves,Glass Animals,Dreamland,English,Indie,72866,True,False,False,False,trackdone,fwdbtn,0.794,0.656,0.539,69.08,0.116,0.069,0.008,-7.03,88
+4,2025-11-15T21:30:39Z,Saturday,21,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,274789,False,True,False,False,trackdone,trackdone,0.43,0.274,0.288,79.07,0.802,0.028,0.0,-10.99,66
+4,2025-11-15T21:38:43Z,Saturday,21,Heeriye,Jasleen Royal,Heeriye,Hindi,Hindi Pop,202351,False,False,False,True,fwdbtn,endplay,0.673,0.529,0.682,97.99,0.45,0.059,0.005,-11.05,76
+4,2025-11-16T07:02:34Z,Sunday,7,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,228449,False,False,False,False,trackdone,trackdone,0.589,0.618,0.653,96.61,0.344,0.033,0.0,-8.99,73
+4,2025-11-17T17:21:31Z,Monday,17,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,20153,True,False,False,False,trackdone,fwdbtn,0.561,0.568,0.731,99.06,0.399,0.041,0.0,-6.71,74
+4,2025-11-18T23:40:30Z,Tuesday,23,Heat Waves,Glass Animals,Dreamland,English,Indie,159747,False,False,False,False,trackdone,endplay,0.754,0.562,0.529,76.72,0.093,0.043,0.0,-7.43,80
+4,2025-11-19T20:36:08Z,Wednesday,20,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,207195,False,False,False,False,trackdone,trackdone,0.715,0.688,0.744,113.33,0.133,0.129,0.0,-6.93,72
+4,2025-11-19T22:27:13Z,Wednesday,22,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,237724,False,True,True,False,trackdone,trackdone,0.762,0.774,0.574,129.76,0.14,0.133,0.009,-4.41,70
+4,2025-11-20T18:45:38Z,Thursday,18,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,260660,False,False,False,False,clickrow,trackdone,0.568,0.531,0.71,100.24,0.266,0.032,0.0,-8.52,79
+4,2025-11-20T21:00:46Z,Thursday,21,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,58635,True,True,False,False,trackdone,fwdbtn,0.671,0.645,0.753,104.96,0.146,0.022,0.003,-4.54,83
+4,2025-11-21T08:20:01Z,Friday,8,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,265137,False,True,True,False,appload,trackdone,0.524,0.498,0.54,90.34,0.431,0.047,0.0,-10.74,89
+4,2025-11-21T21:12:55Z,Friday,21,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,142889,False,True,False,False,appload,trackdone,0.807,0.757,0.678,115.88,0.046,0.123,0.003,-4.14,88
+4,2025-11-22T20:26:39Z,Saturday,20,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,172935,False,True,False,False,trackdone,trackdone,0.502,0.391,0.258,85.95,0.727,0.068,0.0,-12.44,83
+4,2025-11-22T21:49:27Z,Saturday,21,lovely,Billie Eilish,lovely,English,Pop,197270,False,False,False,True,trackdone,trackdone,0.465,0.294,0.125,118.43,0.66,0.026,0.005,-10.92,76
+4,2025-11-22T22:22:55Z,Saturday,22,Ranjha,B Praak,Shershaah,Hindi,Bollywood,95677,True,False,False,False,fwdbtn,fwdbtn,0.488,0.459,0.301,88.86,0.525,0.045,0.001,-10.05,85
+4,2025-11-23T00:56:56Z,Sunday,0,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,191291,False,False,False,False,trackdone,trackdone,0.696,0.687,0.767,104.96,0.183,0.015,0.003,-8.99,81
+4,2025-11-24T21:39:36Z,Monday,21,Night Changes,One Direction,FOUR,English,Pop,132155,True,True,False,False,fwdbtn,fwdbtn,0.523,0.503,0.566,118.22,0.254,0.036,0.001,-6.75,87
+4,2025-11-25T20:17:04Z,Tuesday,20,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,24348,True,True,False,False,appload,fwdbtn,0.735,0.715,0.637,111.96,0.227,0.09,0.0,-5.04,80
+4,2025-11-26T21:57:24Z,Wednesday,21,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,216794,False,True,False,False,appload,trackdone,0.661,0.733,0.773,126.05,0.151,0.005,0.0,-7.38,73
+4,2025-11-27T08:23:27Z,Thursday,8,Blinding Lights,The Weeknd,After Hours,English,Pop,113548,True,False,False,False,backbtn,fwdbtn,0.795,0.733,0.693,172.12,0.131,0.059,0.0,-4.34,90
+4,2025-11-27T17:09:14Z,Thursday,17,Blinding Lights,The Weeknd,After Hours,English,Pop,208978,False,False,False,False,trackdone,trackdone,0.788,0.687,0.75,176.26,0.0,0.032,0.0,-5.26,82
+4,2025-11-29T00:13:01Z,Saturday,0,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,219668,False,False,False,False,clickrow,trackdone,0.489,0.334,0.411,78.75,0.734,0.024,0.0,-10.57,77
+4,2025-11-29T18:13:26Z,Saturday,18,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,227555,False,True,False,False,clickrow,trackdone,0.663,0.527,0.659,98.88,0.31,0.014,0.001,-8.91,75
+4,2025-11-30T00:30:47Z,Sunday,0,Heeriye,Jasleen Royal,Heeriye,Hindi,Hindi Pop,166940,False,True,False,False,trackdone,trackdone,0.68,0.502,0.744,97.36,0.451,0.065,0.0,-9.14,79
+4,2025-11-30T07:52:42Z,Sunday,7,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,50880,True,True,False,False,trackdone,fwdbtn,0.625,0.53,0.652,91.32,0.349,0.052,0.0,-8.52,65
+4,2025-11-30T22:17:24Z,Sunday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,219804,False,False,False,False,backbtn,trackdone,0.618,0.54,0.569,93.39,0.358,0.02,0.001,-9.38,73
+4,2025-12-01T23:38:57Z,Monday,23,Sunflower,Post Malone,Hollywoods Bleeding,English,Hip-Hop,139394,False,False,False,False,trackdone,trackdone,0.771,0.607,0.698,90.29,0.234,0.101,0.0,-4.57,83
+4,2025-12-01T23:42:40Z,Monday,23,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,31881,True,False,False,False,trackdone,fwdbtn,0.445,0.365,0.291,84.72,0.635,0.047,0.003,-10.63,78
+4,2025-12-02T13:15:18Z,Tuesday,13,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,143045,True,True,False,False,fwdbtn,fwdbtn,0.748,0.622,0.734,119.26,0.209,0.109,0.006,-5.46,70
+4,2025-12-04T23:26:22Z,Thursday,23,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,187568,False,False,False,False,trackdone,trackdone,0.575,0.568,0.678,96.55,0.421,0.028,0.0,-5.91,68
+4,2025-12-05T17:17:42Z,Friday,17,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,195503,False,False,True,False,clickrow,trackdone,0.58,0.477,0.695,91.86,0.23,0.045,0.004,-7.26,77
+4,2025-12-05T20:26:34Z,Friday,20,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,89478,True,True,False,False,clickrow,fwdbtn,0.814,0.695,0.652,125.71,0.116,0.131,0.001,-5.87,86
+4,2025-12-06T01:56:20Z,Saturday,1,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,258276,False,True,False,False,trackdone,trackdone,0.454,0.38,0.374,81.51,0.655,0.036,0.006,-9.99,70
+4,2025-12-07T00:41:24Z,Sunday,0,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,187514,False,False,False,False,fwdbtn,trackdone,0.597,0.571,0.692,102.89,0.364,0.047,0.0,-7.16,80
+4,2025-12-07T18:07:37Z,Sunday,18,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,247572,False,True,False,False,trackdone,endplay,0.764,0.632,0.69,116.45,0.194,0.087,0.001,-5.98,69
+4,2025-12-08T13:57:43Z,Monday,13,Blinding Lights,The Weeknd,After Hours,English,Pop,57692,True,True,False,False,trackdone,fwdbtn,0.738,0.68,0.719,170.72,0.0,0.044,0.0,-4.51,82
+4,2025-12-08T20:03:20Z,Monday,20,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,75320,True,True,False,False,backbtn,fwdbtn,0.525,0.524,0.516,91.01,0.324,0.034,0.01,-3.79,66
+4,2025-12-08T20:49:52Z,Monday,20,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,175319,False,False,False,False,clickrow,endplay,0.516,0.338,0.225,76.87,0.594,0.064,0.0,-10.88,79
+4,2025-12-08T21:51:32Z,Monday,21,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,190617,False,True,False,False,appload,endplay,0.497,0.486,0.214,83.16,0.617,0.038,0.013,-9.66,81
+4,2025-12-09T22:55:58Z,Tuesday,22,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,177594,False,True,False,False,clickrow,trackdone,0.713,0.695,0.662,118.71,0.241,0.1,0.004,-4.49,82
+4,2025-12-10T00:57:17Z,Wednesday,0,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,266216,False,True,False,False,appload,endplay,0.769,0.771,0.568,113.95,0.083,0.095,0.005,-4.82,66
+4,2025-12-10T21:30:55Z,Wednesday,21,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,230180,False,True,False,False,trackdone,endplay,0.456,0.393,0.459,78.72,0.611,0.03,0.0,-11.99,75
+4,2025-12-12T21:57:41Z,Friday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,227043,False,False,False,False,trackdone,trackdone,0.794,0.662,0.783,113.77,0.156,0.082,0.0,-8.56,67
+4,2025-12-13T21:35:14Z,Saturday,21,Heat Waves,Glass Animals,Dreamland,English,Indie,165992,False,True,False,False,trackdone,trackdone,0.772,0.71,0.469,84.9,0.115,0.068,0.002,-7.02,77
+4,2025-12-15T20:05:44Z,Monday,20,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,114144,True,True,False,False,trackdone,fwdbtn,0.628,0.57,0.743,85.04,0.354,0.019,0.0,-7.83,84
+4,2025-12-15T21:37:04Z,Monday,21,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,207348,False,False,False,False,clickrow,trackdone,0.589,0.581,0.653,91.29,0.368,0.018,0.003,-7.62,78
+4,2025-12-17T13:12:48Z,Wednesday,13,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,151789,False,False,True,True,fwdbtn,trackdone,0.785,0.652,0.618,117.41,0.222,0.105,0.004,-6.1,86
+4,2025-12-18T12:07:36Z,Thursday,12,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,200992,False,False,False,False,trackdone,trackdone,0.469,0.256,0.526,79.48,0.749,0.03,0.009,-10.55,68
+4,2025-12-18T13:47:25Z,Thursday,13,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,102812,True,True,False,False,trackdone,fwdbtn,0.49,0.302,0.512,81.29,0.772,0.047,0.0,-9.74,72
+4,2025-12-18T20:20:31Z,Thursday,20,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,236850,False,False,False,True,trackdone,trackdone,0.838,0.718,0.669,121.02,0.163,0.082,0.003,-7.27,65
+4,2025-12-18T21:58:52Z,Thursday,21,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,82917,True,True,False,False,trackdone,fwdbtn,0.618,0.82,0.796,122.16,0.177,0.044,0.001,-7.14,78
+4,2025-12-18T23:43:57Z,Thursday,23,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,217781,False,False,False,False,backbtn,trackdone,0.431,0.286,0.224,78.59,0.841,0.032,0.0,-11.98,71
+4,2025-12-19T00:02:48Z,Friday,0,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,171347,False,True,False,False,clickrow,endplay,0.821,0.658,0.728,115.79,0.242,0.089,0.0,-4.98,70
+4,2025-12-20T17:07:39Z,Saturday,17,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,55020,True,False,False,False,appload,fwdbtn,0.76,0.745,0.61,121.96,0.114,0.09,0.0,-7.89,79
+4,2025-12-21T00:36:20Z,Sunday,0,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,238158,False,True,False,False,clickrow,endplay,0.539,0.512,0.489,92.48,0.449,0.053,0.002,-9.39,79
+4,2025-12-21T07:08:18Z,Sunday,7,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,171385,False,True,False,False,appload,trackdone,0.751,0.611,0.76,105.17,0.177,0.084,0.007,-6.19,71
+4,2025-12-21T21:34:52Z,Sunday,21,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,133399,False,False,False,False,clickrow,trackdone,0.814,0.762,0.692,123.53,0.155,0.109,0.0,-7.19,78
+4,2025-12-23T18:03:17Z,Tuesday,18,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,242663,False,True,False,False,trackdone,trackdone,0.468,0.319,0.259,86.8,0.699,0.032,0.011,-12.48,77
+4,2025-12-23T22:48:02Z,Tuesday,22,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,28242,True,True,False,True,clickrow,fwdbtn,0.459,0.31,0.27,74.8,0.795,0.039,0.0,-12.53,64
+4,2025-12-24T18:18:29Z,Wednesday,18,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,196207,False,False,False,True,backbtn,trackdone,0.593,0.584,0.715,88.0,0.26,0.041,0.003,-6.92,87
+4,2025-12-24T20:39:55Z,Wednesday,20,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,200965,False,False,False,False,trackdone,trackdone,0.513,0.51,0.589,89.56,0.399,0.022,0.002,-6.47,78
+4,2025-12-25T00:53:32Z,Thursday,0,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,252568,False,True,False,False,fwdbtn,trackdone,0.759,0.691,0.775,110.48,0.18,0.056,0.008,-5.94,80
+4,2025-12-25T18:11:18Z,Thursday,18,lovely,Billie Eilish,lovely,English,Pop,166501,False,False,True,False,trackdone,trackdone,0.459,0.304,0.23,114.69,0.671,0.04,0.001,-11.16,77
+4,2025-12-26T00:08:52Z,Friday,0,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,43940,True,True,False,False,clickrow,fwdbtn,0.577,0.533,0.624,91.07,0.411,0.054,0.003,-10.41,65
+4,2025-12-26T00:41:29Z,Friday,0,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,148680,False,True,False,False,trackdone,trackdone,0.701,0.583,0.739,119.62,0.165,0.11,0.0,-6.38,78
+4,2025-12-26T23:57:05Z,Friday,23,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,218079,False,True,False,False,trackdone,trackdone,0.771,0.655,0.778,125.64,0.08,0.103,0.0,-6.37,80
+4,2025-12-27T21:33:45Z,Saturday,21,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,233587,False,True,False,False,fwdbtn,trackdone,0.555,0.407,0.445,90.44,0.486,0.006,0.0,-9.33,75
+4,2025-12-28T00:32:52Z,Sunday,0,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,280912,False,False,True,False,appload,trackdone,0.4,0.337,0.181,71.97,0.893,0.04,0.008,-13.1,66
+4,2025-12-29T20:37:12Z,Monday,20,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,13107,True,False,False,False,clickrow,fwdbtn,0.475,0.35,0.2,78.99,0.835,0.068,0.0,-12.49,60
+4,2025-12-30T08:49:11Z,Tuesday,8,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,215054,False,True,False,False,trackdone,endplay,0.402,0.347,0.569,82.83,0.724,0.043,0.008,-11.56,66
+4,2025-12-30T17:21:09Z,Tuesday,17,Heat Waves,Glass Animals,Dreamland,English,Indie,79580,True,True,False,False,trackdone,fwdbtn,0.784,0.622,0.587,95.15,0.149,0.061,0.005,-5.58,84
+4,2025-12-30T20:55:45Z,Tuesday,20,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,161079,False,False,False,False,fwdbtn,endplay,0.79,0.681,0.588,121.15,0.071,0.092,0.0,-4.28,73
+4,2025-12-31T08:10:26Z,Wednesday,8,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,172877,False,False,True,False,fwdbtn,trackdone,0.71,0.593,0.78,109.84,0.1,0.083,0.0,-6.77,76
+4,2025-12-31T20:09:07Z,Wednesday,20,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,59115,True,False,False,False,fwdbtn,fwdbtn,0.673,0.604,0.803,108.32,0.334,0.041,0.0,-8.51,92
+4,2025-12-31T20:41:45Z,Wednesday,20,Ranjha,B Praak,Shershaah,Hindi,Bollywood,108314,True,False,False,False,trackdone,fwdbtn,0.539,0.447,0.45,84.7,0.524,0.021,0.0,-7.6,78
+4,2026-01-01T20:20:03Z,Thursday,20,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,231811,False,False,False,False,appload,trackdone,0.7,0.71,0.78,101.49,0.197,0.054,0.0,-2.63,85
+4,2026-01-01T21:15:52Z,Thursday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,173638,False,True,False,False,appload,trackdone,0.709,0.68,0.688,121.16,0.162,0.1,0.003,-6.75,71
+4,2026-01-03T18:54:48Z,Saturday,18,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,27770,True,True,False,False,appload,fwdbtn,0.474,0.451,0.415,90.32,0.575,0.03,0.001,-10.72,69
+4,2026-01-03T22:54:54Z,Saturday,22,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,Hindi,Bollywood,19226,True,True,True,False,trackdone,fwdbtn,0.559,0.497,0.545,87.89,0.42,0.044,0.0,-6.93,71
+4,2026-01-04T22:57:39Z,Sunday,22,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,269443,False,True,False,False,trackdone,trackdone,0.433,0.346,0.273,91.09,0.716,0.036,0.0,-10.88,86
+4,2026-01-06T21:06:39Z,Tuesday,21,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,227150,False,True,False,False,backbtn,trackdone,0.43,0.354,0.442,73.6,0.66,0.044,0.0,-10.9,73
+4,2026-01-06T21:24:24Z,Tuesday,21,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,88080,True,False,False,False,fwdbtn,fwdbtn,0.547,0.559,0.585,89.39,0.403,0.058,0.0,-7.9,71
+4,2026-01-07T09:16:10Z,Wednesday,9,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,199370,False,False,False,False,trackdone,trackdone,0.442,0.33,0.387,77.74,0.745,0.064,0.0,-10.52,63
+4,2026-01-08T17:30:41Z,Thursday,17,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,276460,False,True,False,False,trackdone,trackdone,0.583,0.579,0.747,92.06,0.263,0.034,0.002,-4.68,75
+4,2026-01-08T20:22:43Z,Thursday,20,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,242647,False,True,False,False,trackdone,trackdone,0.866,0.731,0.805,122.21,0.108,0.124,0.0,-6.3,72
+4,2026-01-10T12:33:23Z,Saturday,12,Ranjha,B Praak,Shershaah,Hindi,Bollywood,194390,False,False,False,False,trackdone,trackdone,0.49,0.548,0.365,82.13,0.528,0.044,0.0,-11.66,81
+4,2026-01-10T12:39:45Z,Saturday,12,As It Was,Harry Styles,Harrys House,English,Pop,189369,False,True,False,False,trackdone,trackdone,0.721,0.745,0.705,98.97,0.205,0.022,0.0,-7.27,86
+4,2026-01-10T12:45:21Z,Saturday,12,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,Hindi,Bollywood,196065,False,True,False,False,trackdone,trackdone,0.618,0.469,0.451,90.29,0.394,0.033,0.001,-8.74,69
+4,2026-01-10T18:50:03Z,Saturday,18,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,208636,False,True,False,False,fwdbtn,trackdone,0.718,0.566,0.679,129.24,0.113,0.122,0.0,-7.27,74
+4,2026-01-10T20:52:54Z,Saturday,20,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,42159,True,False,False,False,trackdone,fwdbtn,0.663,0.714,0.713,102.53,0.163,0.036,0.006,-8.0,78
+4,2026-01-10T22:57:30Z,Saturday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,200363,False,False,False,False,trackdone,trackdone,0.691,0.616,0.743,108.25,0.257,0.023,0.0,-9.31,83
+4,2026-01-11T07:23:40Z,Sunday,7,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,109277,True,False,False,True,clickrow,fwdbtn,0.792,0.793,0.637,122.04,0.118,0.1,0.005,-6.31,89
+4,2026-01-11T21:38:18Z,Sunday,21,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,228849,False,False,False,False,clickrow,trackdone,0.529,0.404,0.275,114.36,0.458,0.024,0.0,-8.26,86
+4,2026-01-12T23:15:19Z,Monday,23,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,73791,True,False,True,False,trackdone,fwdbtn,0.623,0.569,0.705,94.77,0.35,0.037,0.003,-5.69,79
+4,2026-01-12T23:52:22Z,Monday,23,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,230478,False,False,False,False,trackdone,trackdone,0.766,0.63,0.741,115.71,0.15,0.109,0.002,-6.76,79
+4,2026-01-14T17:52:47Z,Wednesday,17,Sunflower,Post Malone,Hollywoods Bleeding,English,Hip-Hop,124390,False,False,False,True,trackdone,trackdone,0.785,0.68,0.713,92.29,0.222,0.062,0.0,-6.79,84
+4,2026-01-15T23:07:01Z,Thursday,23,Heat Waves,Glass Animals,Dreamland,English,Indie,32991,True,True,False,False,fwdbtn,fwdbtn,0.781,0.548,0.503,86.99,0.146,0.075,0.0,-5.69,90
+4,2026-01-15T23:22:16Z,Thursday,23,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,138767,True,False,False,False,trackdone,fwdbtn,0.517,0.343,0.249,77.87,0.734,0.032,0.0,-12.06,75
+4,2026-01-16T22:28:28Z,Friday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,84632,True,True,True,False,fwdbtn,fwdbtn,0.708,0.578,0.771,104.88,0.211,0.042,0.0,-6.69,81
+4,2026-01-17T20:02:29Z,Saturday,20,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,186179,False,True,False,False,fwdbtn,trackdone,0.418,0.313,0.524,82.58,0.705,0.044,0.007,-11.72,68
+4,2026-01-18T13:04:39Z,Sunday,13,Husn,Anuv Jain,Husn,Hindi,Indie,214981,False,False,False,False,clickrow,trackdone,0.466,0.299,0.401,73.61,0.77,0.039,0.008,-11.64,76
+4,2026-01-19T18:23:40Z,Monday,18,Husn,Anuv Jain,Husn,Hindi,Indie,120140,True,True,False,False,clickrow,fwdbtn,0.438,0.289,0.329,80.72,0.798,0.02,0.0,-11.63,65
+4,2026-01-19T20:25:45Z,Monday,20,lovely,Billie Eilish,lovely,English,Pop,224946,False,True,False,False,appload,trackdone,0.479,0.322,0.203,109.19,0.697,0.05,0.0,-10.54,84
+4,2026-01-19T21:53:38Z,Monday,21,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,223023,False,True,False,True,trackdone,trackdone,0.542,0.403,0.42,90.67,0.557,0.066,0.0,-9.8,75
+4,2026-01-21T20:09:29Z,Wednesday,20,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,55782,True,True,False,False,fwdbtn,fwdbtn,0.758,0.696,0.749,124.39,0.165,0.099,0.0,-7.57,70
+4,2026-01-21T20:29:45Z,Wednesday,20,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,22491,True,True,False,False,backbtn,fwdbtn,0.751,0.671,0.58,126.25,0.007,0.089,0.006,-6.18,71
+4,2026-01-24T23:15:30Z,Saturday,23,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,47835,True,False,False,True,appload,fwdbtn,0.629,0.536,0.646,89.7,0.386,0.018,0.002,-6.53,70
+4,2026-01-25T18:57:40Z,Sunday,18,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,228959,False,True,False,False,fwdbtn,trackdone,0.596,0.597,0.741,97.86,0.257,0.028,0.004,-5.96,77
+4,2026-01-25T20:11:00Z,Sunday,20,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,61128,True,False,False,False,clickrow,fwdbtn,0.549,0.462,0.669,97.94,0.3,0.071,0.001,-9.61,80
+4,2026-01-25T21:47:13Z,Sunday,21,Blinding Lights,The Weeknd,After Hours,English,Pop,227489,False,False,True,False,trackdone,trackdone,0.84,0.689,0.736,171.47,0.061,0.03,0.002,-6.44,91
+4,2026-01-25T21:48:49Z,Sunday,21,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,140106,True,True,False,True,trackdone,fwdbtn,0.61,0.513,0.542,94.81,0.464,0.042,0.0,-8.78,76
+4,2026-01-25T22:39:09Z,Sunday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,140918,False,False,True,False,trackdone,trackdone,0.415,0.323,0.49,80.24,0.625,0.034,0.0,-10.43,74
+4,2026-01-26T09:22:23Z,Monday,9,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,98219,True,True,True,False,fwdbtn,fwdbtn,0.423,0.392,0.276,78.9,0.627,0.052,0.0,-10.77,94
+4,2026-01-28T21:37:09Z,Wednesday,21,Heeriye,Jasleen Royal,Heeriye,Hindi,Hindi Pop,154744,False,True,False,False,trackdone,endplay,0.716,0.509,0.816,90.07,0.346,0.055,0.0,-6.02,78
+4,2026-01-28T22:14:46Z,Wednesday,22,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,200935,False,False,False,False,fwdbtn,trackdone,0.68,0.571,0.706,94.67,0.445,0.042,0.006,-6.91,82
+4,2026-01-29T21:12:24Z,Thursday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,161031,False,False,False,False,trackdone,trackdone,0.735,0.659,0.782,112.74,0.124,0.092,0.0,-6.26,76
+4,2026-01-30T00:55:31Z,Friday,0,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,75670,True,True,False,False,clickrow,fwdbtn,0.427,0.32,0.475,80.07,0.751,0.061,0.0,-9.02,58
+4,2026-01-30T22:28:18Z,Friday,22,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,214733,False,True,False,False,trackdone,trackdone,0.624,0.666,0.864,123.09,0.113,0.041,0.0,-8.51,72
+4,2026-01-31T20:09:43Z,Saturday,20,Husn,Anuv Jain,Husn,Hindi,Indie,154995,False,True,False,False,clickrow,endplay,0.438,0.265,0.407,76.31,0.791,0.058,0.0,-9.7,78
+4,2026-01-31T22:17:29Z,Saturday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,61961,True,True,False,True,appload,fwdbtn,0.664,0.63,0.702,103.03,0.238,0.049,0.0,-7.89,84
+4,2026-01-31T22:57:35Z,Saturday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,12126,True,False,False,False,trackdone,fwdbtn,0.69,0.696,0.757,104.32,0.254,0.064,0.0,-7.62,83
+4,2026-02-02T00:04:09Z,Monday,0,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,175605,False,False,False,False,clickrow,trackdone,0.766,0.708,0.564,119.46,0.065,0.116,0.007,-6.17,85
+4,2026-02-02T22:22:03Z,Monday,22,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,12635,True,False,False,False,trackdone,fwdbtn,0.475,0.436,0.4,108.31,0.562,0.019,0.009,-10.29,86
+4,2026-02-03T22:35:53Z,Tuesday,22,Blinding Lights,The Weeknd,After Hours,English,Pop,81692,True,True,False,False,trackdone,fwdbtn,0.782,0.73,0.65,178.18,0.0,0.058,0.001,-4.59,86
+4,2026-02-03T22:36:21Z,Tuesday,22,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,170497,False,False,False,False,fwdbtn,trackdone,0.639,0.574,0.767,94.07,0.276,0.05,0.0,-8.76,83
+4,2026-02-05T09:12:35Z,Thursday,9,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,87937,True,True,False,True,trackdone,fwdbtn,0.824,0.779,0.617,126.71,0.145,0.091,0.0,-7.13,81
+4,2026-02-05T13:16:51Z,Thursday,13,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,196251,False,True,False,False,backbtn,trackdone,0.647,0.527,0.686,100.7,0.403,0.038,0.001,-7.39,82
+4,2026-02-06T23:44:11Z,Friday,23,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,Hindi,Bollywood,110746,True,False,False,False,trackdone,fwdbtn,0.61,0.489,0.509,89.05,0.407,0.05,0.0,-8.37,73
+4,2026-02-07T00:18:37Z,Saturday,0,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,212139,False,True,False,False,trackdone,trackdone,0.536,0.363,0.455,88.99,0.486,0.056,0.0,-10.26,75
+4,2026-02-07T22:43:05Z,Saturday,22,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,Hindi,Bollywood,49913,True,True,False,False,appload,fwdbtn,0.551,0.439,0.6,86.05,0.385,0.064,0.002,-7.14,78
+4,2026-02-08T17:52:02Z,Sunday,17,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,209277,False,True,True,False,trackdone,trackdone,0.508,0.311,0.462,83.45,0.766,0.04,0.0,-9.67,76
+4,2026-02-08T18:57:39Z,Sunday,18,Kho Gaye Hum Kahan,Jasleen Royal,Baar Baar Dekho,Hindi,Bollywood,164943,False,False,False,False,appload,trackdone,0.576,0.449,0.501,92.69,0.518,0.028,0.006,-8.76,71
+4,2026-02-08T21:33:00Z,Sunday,21,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,205805,False,True,True,False,clickrow,trackdone,0.487,0.485,0.586,80.54,0.376,0.048,0.0,-9.68,79
+4,2026-02-09T20:24:22Z,Monday,20,As It Was,Harry Styles,Harrys House,English,Pop,24476,True,False,True,False,trackdone,fwdbtn,0.688,0.659,0.676,102.47,0.056,0.032,0.007,-5.63,92
+4,2026-02-10T12:25:55Z,Tuesday,12,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,257580,False,False,False,False,clickrow,trackdone,0.498,0.503,0.598,91.73,0.487,0.03,0.004,-9.88,75
+4,2026-02-10T22:08:08Z,Tuesday,22,Ranjha,B Praak,Shershaah,Hindi,Bollywood,143483,False,True,False,False,trackdone,trackdone,0.469,0.392,0.286,89.39,0.577,0.025,0.005,-9.37,74
+4,2026-02-12T21:50:13Z,Thursday,21,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,181849,False,True,False,False,appload,trackdone,0.82,0.718,0.577,128.8,0.094,0.111,0.007,-5.91,88
+4,2026-02-14T22:59:26Z,Saturday,22,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,84369,True,True,False,True,clickrow,fwdbtn,0.526,0.421,0.232,117.25,0.509,0.048,0.001,-10.17,82
+4,2026-02-15T21:09:52Z,Sunday,21,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,219221,False,False,True,False,trackdone,endplay,0.727,0.632,0.714,109.32,0.245,0.067,0.001,-5.84,95
+4,2026-02-15T21:28:23Z,Sunday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,51857,True,True,False,False,clickrow,fwdbtn,0.687,0.624,0.774,109.53,0.106,0.1,0.0,-7.07,78
+4,2026-02-16T22:38:02Z,Monday,22,Husn,Anuv Jain,Husn,Hindi,Indie,167875,False,True,False,False,clickrow,trackdone,0.422,0.348,0.44,71.82,0.815,0.041,0.016,-11.9,67
+4,2026-02-17T08:21:07Z,Tuesday,8,Phir Le Aaya Dil,Arijit Singh,Barfi!,Hindi,Bollywood,41475,True,True,False,False,fwdbtn,fwdbtn,0.476,0.299,0.298,84.57,0.644,0.05,0.005,-11.82,61
+4,2026-02-17T12:26:49Z,Tuesday,12,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,84223,True,True,True,False,fwdbtn,fwdbtn,0.717,0.645,0.693,107.34,0.178,0.06,0.001,-7.0,84
+4,2026-02-17T23:32:31Z,Tuesday,23,Satranga,Arijit Singh,Animal,Hindi,Bollywood,94035,True,False,False,False,trackdone,fwdbtn,0.457,0.437,0.386,83.7,0.352,0.032,0.0,-8.02,75
+4,2026-02-18T07:35:16Z,Wednesday,7,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,121722,True,False,False,False,appload,fwdbtn,0.601,0.574,0.716,91.91,0.331,0.025,0.001,-6.4,85
+4,2026-02-18T08:59:03Z,Wednesday,8,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,157405,False,True,False,False,trackdone,trackdone,0.427,0.369,0.481,78.62,0.631,0.031,0.012,-10.33,62
+4,2026-02-19T08:42:12Z,Thursday,8,Ranjha,B Praak,Shershaah,Hindi,Bollywood,186138,False,False,False,False,clickrow,trackdone,0.51,0.491,0.374,87.14,0.579,0.036,0.003,-8.62,80
+4,2026-02-21T22:47:40Z,Saturday,22,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,87265,True,True,False,False,appload,fwdbtn,0.577,0.616,0.731,96.2,0.336,0.026,0.006,-8.22,79
+4,2026-02-23T21:05:43Z,Monday,21,Perfect,Ed Sheeran,Divide,English,Pop,161933,True,True,False,False,trackdone,fwdbtn,0.646,0.424,0.607,95.21,0.386,0.039,0.003,-6.63,86
+4,2026-02-23T21:48:13Z,Monday,21,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,163535,False,False,False,False,trackdone,trackdone,0.658,0.608,0.719,92.33,0.22,0.043,0.001,-9.03,89
+4,2026-02-23T23:39:28Z,Monday,23,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,162566,False,False,False,False,trackdone,trackdone,0.526,0.548,0.649,78.7,0.51,0.066,0.0,-8.5,76
+4,2026-02-24T22:06:12Z,Tuesday,22,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,252218,False,True,False,False,trackdone,trackdone,0.808,0.7,0.586,113.8,0.179,0.108,0.007,-5.61,73
+4,2026-02-24T22:31:06Z,Tuesday,22,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,235664,False,False,False,False,clickrow,trackdone,0.565,0.561,0.787,87.87,0.358,0.043,0.004,-8.62,84
+4,2026-02-26T07:31:28Z,Thursday,7,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,99245,True,False,False,False,clickrow,fwdbtn,0.508,0.379,0.34,80.62,0.615,0.03,0.0,-12.29,86
+4,2026-02-26T20:12:21Z,Thursday,20,Night Changes,One Direction,FOUR,English,Pop,267885,False,True,False,False,trackdone,trackdone,0.596,0.568,0.546,120.65,0.241,0.04,0.001,-8.68,76
+4,2026-02-27T21:28:45Z,Friday,21,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,236267,False,False,False,False,fwdbtn,trackdone,0.798,0.748,0.645,128.08,0.03,0.125,0.007,-5.14,88
+4,2026-02-28T20:32:11Z,Saturday,20,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,73184,True,True,True,False,backbtn,fwdbtn,0.416,0.287,0.505,78.73,0.728,0.029,0.011,-10.54,67
+4,2026-02-28T21:48:00Z,Saturday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,184389,False,True,False,False,trackdone,trackdone,0.778,0.617,0.712,111.76,0.177,0.109,0.0,-6.59,79
+4,2026-03-01T17:49:59Z,Sunday,17,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,241204,False,True,False,True,clickrow,trackdone,0.593,0.53,0.719,101.12,0.364,0.028,0.0,-5.59,76
+4,2026-03-02T08:06:46Z,Monday,8,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,23095,True,True,False,False,clickrow,fwdbtn,0.499,0.245,0.406,84.56,0.698,0.019,0.003,-9.13,74
+4,2026-03-02T20:37:09Z,Monday,20,Perfect,Ed Sheeran,Divide,English,Pop,141607,False,False,False,False,trackdone,trackdone,0.571,0.456,0.637,96.89,0.302,0.037,0.0,-8.5,85
+4,2026-03-02T23:19:34Z,Monday,23,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,194096,False,True,False,False,appload,trackdone,0.511,0.493,0.363,103.47,0.563,0.027,0.006,-6.46,84
+4,2026-03-03T22:34:33Z,Tuesday,22,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,32810,True,True,False,False,fwdbtn,fwdbtn,0.545,0.399,0.462,84.11,0.535,0.024,0.002,-11.1,73
+4,2026-03-03T22:54:40Z,Tuesday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,54750,True,False,False,False,trackdone,fwdbtn,0.595,0.533,0.556,99.76,0.392,0.028,0.002,-9.31,69
+4,2026-03-03T23:29:32Z,Tuesday,23,Husn,Anuv Jain,Husn,Hindi,Indie,273917,False,False,False,True,clickrow,endplay,0.439,0.311,0.372,81.16,0.832,0.031,0.005,-13.1,69
+4,2026-03-06T12:23:55Z,Friday,12,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,27437,True,False,False,False,appload,fwdbtn,0.678,0.622,0.658,104.96,0.133,0.064,0.0,-7.34,76
+4,2026-03-06T21:24:47Z,Friday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,155805,False,True,False,False,appload,trackdone,0.707,0.651,0.819,112.81,0.16,0.074,0.006,-6.16,75
+4,2026-03-07T08:53:08Z,Saturday,8,Night Changes,One Direction,FOUR,English,Pop,138276,False,False,False,False,trackdone,endplay,0.53,0.517,0.526,123.58,0.216,0.025,0.0,-7.43,68
+4,2026-03-08T20:28:46Z,Sunday,20,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,243058,False,True,False,False,fwdbtn,trackdone,0.62,0.51,0.721,91.08,0.356,0.036,0.0,-5.26,85
+4,2026-03-08T22:21:44Z,Sunday,22,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,133017,False,True,False,False,trackdone,trackdone,0.753,0.746,0.671,116.35,0.141,0.108,0.003,-4.23,68
+4,2026-03-09T21:45:57Z,Monday,21,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,167775,False,True,True,False,trackdone,endplay,0.49,0.456,0.28,113.62,0.547,0.025,0.0,-8.55,82
+4,2026-03-10T20:53:21Z,Tuesday,20,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,15814,True,False,False,False,appload,fwdbtn,0.576,0.462,0.649,96.05,0.44,0.026,0.0,-8.58,73
+4,2026-03-10T22:59:51Z,Tuesday,22,Ranjha,B Praak,Shershaah,Hindi,Bollywood,157114,False,False,False,False,trackdone,trackdone,0.489,0.477,0.291,84.27,0.555,0.036,0.0,-11.8,78
+4,2026-03-11T07:48:26Z,Wednesday,7,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,236249,False,True,False,False,trackdone,endplay,0.477,0.387,0.509,82.63,0.774,0.04,0.01,-12.19,70
+4,2026-03-12T13:26:03Z,Thursday,13,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,134512,True,True,True,False,trackdone,fwdbtn,0.671,0.662,0.787,132.07,0.109,0.018,0.004,-4.57,71
+4,2026-03-12T13:49:59Z,Thursday,13,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,198770,False,True,False,False,trackdone,endplay,0.71,0.63,0.686,119.33,0.109,0.103,0.001,-6.07,76
+4,2026-03-12T17:29:53Z,Thursday,17,Husn,Anuv Jain,Husn,Hindi,Indie,204414,False,False,False,False,trackdone,trackdone,0.432,0.301,0.415,84.72,0.75,0.035,0.0,-10.46,70
+4,2026-03-12T21:10:57Z,Thursday,21,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,34250,True,False,False,False,backbtn,fwdbtn,0.82,0.619,0.481,124.03,0.085,0.117,0.0,-5.89,74
+4,2026-03-12T21:41:09Z,Thursday,21,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,219207,False,False,False,False,clickrow,trackdone,0.61,0.469,0.704,97.14,0.337,0.046,0.008,-5.04,85
+4,2026-03-13T23:14:08Z,Friday,23,As It Was,Harry Styles,Harrys House,English,Pop,261480,False,True,False,False,trackdone,trackdone,0.775,0.621,0.749,98.96,0.068,0.025,0.0,-5.42,95
+4,2026-03-14T00:16:08Z,Saturday,0,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,231302,False,True,False,False,fwdbtn,trackdone,0.609,0.577,0.685,93.39,0.348,0.033,0.002,-8.11,75
+4,2026-03-14T00:20:17Z,Saturday,0,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,154696,True,False,False,False,trackdone,fwdbtn,0.733,0.624,0.643,101.83,0.237,0.066,0.0,-7.44,73
+4,2026-03-14T21:28:55Z,Saturday,21,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,34706,True,False,False,False,trackdone,fwdbtn,0.691,0.761,0.616,114.32,0.135,0.108,0.006,-6.02,71
+4,2026-03-14T22:10:08Z,Saturday,22,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,251068,False,True,False,False,fwdbtn,trackdone,0.723,0.612,0.729,111.74,0.292,0.112,0.0,-5.73,75
+4,2026-03-14T22:56:35Z,Saturday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,137245,False,True,False,False,trackdone,trackdone,0.578,0.582,0.658,103.3,0.375,0.012,0.0,-7.64,64
+4,2026-03-15T00:50:18Z,Sunday,0,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,34311,True,False,False,False,trackdone,fwdbtn,0.805,0.744,0.681,116.7,0.126,0.106,0.0,-7.41,84
+4,2026-03-15T22:21:35Z,Sunday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,203248,False,True,False,False,fwdbtn,trackdone,0.463,0.392,0.453,74.84,0.689,0.036,0.001,-13.01,60
+4,2026-03-16T07:04:31Z,Monday,7,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,253356,False,True,False,False,trackdone,trackdone,0.503,0.502,0.623,87.55,0.435,0.027,0.0,-8.3,80
+4,2026-03-16T22:02:11Z,Monday,22,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,175543,False,False,False,False,fwdbtn,endplay,0.64,0.606,0.702,99.54,0.332,0.052,0.008,-7.09,88
+4,2026-03-17T01:00:48Z,Tuesday,1,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,256063,False,False,False,False,trackdone,trackdone,0.546,0.562,0.591,89.96,0.372,0.034,0.002,-6.69,72
+4,2026-03-17T22:21:04Z,Tuesday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,237378,False,True,False,True,trackdone,trackdone,0.587,0.501,0.569,95.21,0.443,0.038,0.0,-9.18,69
+4,2026-03-18T21:40:36Z,Wednesday,21,Satranga,Arijit Singh,Animal,Hindi,Bollywood,181881,False,True,False,False,trackdone,trackdone,0.495,0.533,0.389,91.34,0.468,0.073,0.0,-9.31,81
+4,2026-03-19T22:52:22Z,Thursday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,30413,True,False,False,False,trackdone,fwdbtn,0.702,0.648,0.721,102.03,0.24,0.044,0.0,-6.69,84
+4,2026-03-20T18:13:44Z,Friday,18,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,46015,True,False,True,False,trackdone,fwdbtn,0.753,0.629,0.664,115.27,0.199,0.069,0.0,-6.06,80
+4,2026-03-20T22:49:31Z,Friday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,152483,False,True,False,False,trackdone,trackdone,0.735,0.667,0.725,98.24,0.311,0.046,0.006,-9.06,86
+4,2026-03-21T23:56:46Z,Saturday,23,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,90844,True,True,False,False,trackdone,fwdbtn,0.624,0.609,0.647,90.46,0.354,0.061,0.0,-7.14,73
+4,2026-03-22T21:57:05Z,Sunday,21,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,106722,True,False,False,False,trackdone,fwdbtn,0.584,0.781,0.814,126.8,0.218,0.037,0.001,-6.92,78
+4,2026-03-23T18:25:13Z,Monday,18,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,192992,False,False,False,False,clickrow,trackdone,0.578,0.595,0.681,93.28,0.346,0.035,0.0,-8.46,69
+4,2026-03-23T20:50:14Z,Monday,20,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,100774,True,True,False,False,trackdone,fwdbtn,0.599,0.609,0.694,94.88,0.366,0.007,0.0,-7.47,77
+4,2026-03-24T01:26:47Z,Tuesday,1,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,209647,False,True,False,False,appload,trackdone,0.623,0.611,0.721,93.74,0.323,0.037,0.002,-9.11,87
+4,2026-03-25T18:44:22Z,Wednesday,18,As It Was,Harry Styles,Harrys House,English,Pop,203983,False,False,False,False,trackdone,trackdone,0.706,0.69,0.719,103.77,0.102,0.045,0.0,-5.12,80
+4,2026-03-25T20:49:26Z,Wednesday,20,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,21013,True,True,False,False,clickrow,fwdbtn,0.517,0.514,0.325,107.05,0.556,0.03,0.0,-6.8,93
+4,2026-03-25T21:13:34Z,Wednesday,21,O Maahi,Arijit Singh,Dunki,Hindi,Bollywood,197605,False,False,False,False,trackdone,trackdone,0.508,0.42,0.414,88.03,0.579,0.011,0.0,-9.48,80
+4,2026-03-25T21:29:43Z,Wednesday,21,Husn,Anuv Jain,Husn,Hindi,Indie,233855,False,True,True,False,trackdone,trackdone,0.424,0.288,0.451,74.91,0.811,0.064,0.0,-10.94,81
+4,2026-03-26T21:34:17Z,Thursday,21,Heat Waves,Glass Animals,Dreamland,English,Indie,168130,False,False,False,False,clickrow,trackdone,0.806,0.646,0.51,77.5,0.239,0.042,0.003,-6.13,69
+4,2026-03-27T00:29:59Z,Friday,0,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,191375,False,True,False,False,appload,trackdone,0.728,0.709,0.67,116.97,0.183,0.121,0.01,-6.94,80
+4,2026-03-27T21:27:57Z,Friday,21,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,161094,False,False,False,False,clickrow,trackdone,0.432,0.295,0.454,78.71,0.655,0.043,0.0,-12.12,69
+4,2026-03-28T01:29:28Z,Saturday,1,Sunflower,Post Malone,Hollywoods Bleeding,English,Hip-Hop,213280,False,True,False,False,fwdbtn,trackdone,0.763,0.649,0.754,87.64,0.24,0.075,0.003,-6.52,85
+4,2026-03-29T23:09:34Z,Sunday,23,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,141598,False,False,False,False,trackdone,endplay,0.764,0.657,0.639,111.96,0.155,0.097,0.0,-6.04,67
+4,2026-03-30T17:47:09Z,Monday,17,Heeriye,Jasleen Royal,Heeriye,Hindi,Hindi Pop,46231,True,False,False,False,trackdone,fwdbtn,0.702,0.481,0.787,92.5,0.394,0.022,0.002,-8.16,78
+4,2026-03-30T21:27:26Z,Monday,21,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,229381,False,False,True,False,trackdone,trackdone,0.691,0.667,0.767,117.79,0.136,0.094,0.0,-6.55,76
+4,2026-03-31T00:58:39Z,Tuesday,0,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,135151,True,False,False,False,appload,fwdbtn,0.545,0.546,0.616,95.55,0.417,0.04,0.003,-10.72,78
+4,2026-03-31T21:03:06Z,Tuesday,21,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,41297,True,True,False,False,backbtn,fwdbtn,0.768,0.717,0.582,113.23,0.107,0.105,0.008,-6.94,71
+4,2026-03-31T22:02:45Z,Tuesday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,243624,False,True,False,False,clickrow,trackdone,0.59,0.503,0.598,97.59,0.398,0.039,0.0,-5.56,75
+4,2026-03-31T23:29:28Z,Tuesday,23,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,251076,False,True,False,False,trackdone,trackdone,0.561,0.537,0.599,96.79,0.423,0.055,0.004,-7.83,80
+4,2026-04-01T13:40:18Z,Wednesday,13,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,107096,True,True,False,True,clickrow,fwdbtn,0.738,0.698,0.695,111.23,0.165,0.126,0.0,-8.0,69
+4,2026-04-01T17:14:01Z,Wednesday,17,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,102910,True,True,False,False,trackdone,fwdbtn,0.69,0.694,0.843,105.01,0.225,0.044,0.003,-5.14,82
+4,2026-04-01T18:08:36Z,Wednesday,18,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,176451,False,False,False,False,trackdone,trackdone,0.631,0.602,0.767,97.83,0.34,0.023,0.0,-6.02,79
+4,2026-04-02T20:34:14Z,Thursday,20,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,259549,False,False,False,False,clickrow,trackdone,0.812,0.702,0.676,126.8,0.113,0.117,0.007,-6.81,78
+4,2026-04-02T22:33:28Z,Thursday,22,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,243786,False,True,False,False,fwdbtn,trackdone,0.742,0.701,0.603,108.27,0.23,0.07,0.0,-5.27,87
+4,2026-04-05T00:11:20Z,Sunday,0,Chaleya,Arijit Singh,Jawan,Hindi,Bollywood,249161,False,True,False,False,clickrow,trackdone,0.73,0.65,0.787,106.35,0.309,0.044,0.0,-5.68,85
+4,2026-04-05T07:13:17Z,Sunday,7,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,164908,False,False,True,False,fwdbtn,endplay,0.54,0.56,0.581,97.76,0.387,0.058,0.009,-7.73,69
+4,2026-04-05T21:43:55Z,Sunday,21,Blinding Lights,The Weeknd,After Hours,English,Pop,21682,True,True,True,True,clickrow,fwdbtn,0.797,0.714,0.723,165.77,0.063,0.04,0.007,-3.82,83
+4,2026-04-05T21:57:54Z,Sunday,21,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,24926,True,False,False,False,fwdbtn,fwdbtn,0.705,0.653,0.587,112.01,0.189,0.101,0.0,-5.76,74
+4,2026-04-06T17:00:37Z,Monday,17,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,110054,True,False,False,False,appload,fwdbtn,0.526,0.584,0.7,90.24,0.472,0.051,0.001,-7.69,82
+4,2026-04-06T21:30:22Z,Monday,21,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,224096,False,True,False,False,fwdbtn,trackdone,0.656,0.522,0.783,96.35,0.361,0.036,0.0,-8.48,83
+4,2026-04-06T22:57:52Z,Monday,22,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,217674,False,False,False,False,trackdone,trackdone,0.581,0.683,0.926,130.51,0.117,0.035,0.0,-5.4,71
+4,2026-04-07T22:25:39Z,Tuesday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,142873,False,True,False,False,trackdone,trackdone,0.448,0.358,0.463,83.82,0.615,0.043,0.0,-11.17,79
+4,2026-04-08T23:58:53Z,Wednesday,23,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,211797,False,True,False,False,trackdone,endplay,0.613,0.54,0.655,94.98,0.31,0.051,0.0,-7.57,77
+4,2026-04-10T20:54:30Z,Friday,20,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,209252,False,False,False,False,trackdone,trackdone,0.687,0.581,0.668,110.47,0.165,0.085,0.0,-6.09,79
+4,2026-04-11T12:20:52Z,Saturday,12,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,19442,True,True,False,True,trackdone,fwdbtn,0.778,0.696,0.56,127.71,0.135,0.069,0.0,-5.47,72
+4,2026-04-12T01:20:12Z,Sunday,1,lovely,Billie Eilish,lovely,English,Pop,147086,True,False,False,True,clickrow,fwdbtn,0.446,0.368,0.23,111.39,0.662,0.033,0.011,-10.91,80
+4,2026-04-12T21:26:26Z,Sunday,21,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,Bollywood,170798,False,True,False,False,clickrow,trackdone,0.501,0.532,0.614,95.38,0.473,0.046,0.004,-10.75,69
+4,2026-04-13T22:58:50Z,Monday,22,Heeriye,Jasleen Royal,Heeriye,Hindi,Hindi Pop,196047,False,True,False,False,trackdone,trackdone,0.711,0.534,0.746,96.05,0.393,0.069,0.0,-8.25,70
+4,2026-04-14T09:46:49Z,Tuesday,9,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,229677,False,False,False,False,trackdone,trackdone,0.543,0.617,0.679,100.33,0.367,0.023,0.006,-7.18,78
+4,2026-04-14T21:08:39Z,Tuesday,21,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,Hindi,Bollywood,48130,True,True,True,False,trackdone,fwdbtn,0.602,0.717,0.799,126.09,0.248,0.048,0.0,-8.15,81
+4,2026-04-15T07:48:19Z,Wednesday,7,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,198930,False,False,False,False,fwdbtn,trackdone,0.739,0.677,0.703,117.61,0.142,0.112,0.008,-5.43,77
+4,2026-04-15T22:43:22Z,Wednesday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,263558,False,True,False,False,trackdone,trackdone,0.47,0.372,0.479,86.69,0.741,0.033,0.004,-10.8,75
+4,2026-04-15T23:37:26Z,Wednesday,23,Maan Meri Jaan,King,Champagne Talk,Hindi,Hindi Pop,168082,False,False,False,False,trackdone,trackdone,0.739,0.56,0.719,102.44,0.147,0.057,0.0,-8.48,75
+4,2026-04-16T13:06:19Z,Thursday,13,Heat Waves,Glass Animals,Dreamland,English,Indie,160838,False,False,True,False,trackdone,endplay,0.785,0.608,0.511,83.67,0.258,0.07,0.0,-6.96,76
+4,2026-04-16T17:04:57Z,Thursday,17,Husn,Anuv Jain,Husn,Hindi,Indie,95635,True,True,False,False,trackdone,fwdbtn,0.429,0.383,0.385,84.52,0.771,0.02,0.0,-10.76,70
+4,2026-04-17T20:32:15Z,Friday,20,Someone You Loved,Lewis Capaldi,Divinely Uninspired,English,Pop,236028,False,False,False,False,trackdone,trackdone,0.51,0.485,0.311,113.1,0.493,0.057,0.0,-7.83,95
+4,2026-04-18T00:55:56Z,Saturday,0,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,227810,False,False,False,False,fwdbtn,trackdone,0.766,0.726,0.689,110.32,0.101,0.091,0.0,-6.75,76
+4,2026-04-18T17:52:18Z,Saturday,17,Apna Bana Le,Arijit Singh,Bhediya,Hindi,Bollywood,166918,False,True,False,False,clickrow,trackdone,0.604,0.535,0.702,95.23,0.39,0.035,0.003,-8.43,83
+4,2026-04-18T22:44:58Z,Saturday,22,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,170474,False,True,False,False,trackdone,endplay,0.748,0.718,0.647,125.34,0.067,0.09,0.006,-4.78,74
+4,2026-04-20T12:12:04Z,Monday,12,lovely,Billie Eilish,lovely,English,Pop,148197,False,True,False,False,appload,trackdone,0.491,0.336,0.185,109.04,0.714,0.042,0.004,-11.76,84
+4,2026-04-20T20:42:48Z,Monday,20,Kesariya,Arijit Singh,Brahmastra,Hindi,Bollywood,213568,False,False,False,False,trackdone,endplay,0.588,0.599,0.719,92.57,0.432,0.073,0.005,-6.87,75
+4,2026-04-20T22:50:24Z,Monday,22,Husn,Anuv Jain,Husn,Hindi,Indie,82057,True,False,False,False,trackdone,fwdbtn,0.359,0.327,0.398,84.93,0.708,0.019,0.0,-12.98,75
+4,2026-04-21T20:09:03Z,Tuesday,20,Night Changes,One Direction,FOUR,English,Pop,83016,True,False,False,False,clickrow,fwdbtn,0.53,0.486,0.51,117.27,0.199,0.028,0.0,-6.8,76
+4,2026-04-21T20:11:32Z,Tuesday,20,Agar Tum Saath Ho,Alka Yagnik,Tamasha,Hindi,Bollywood,181137,False,False,False,False,fwdbtn,trackdone,0.459,0.316,0.334,84.46,0.649,0.043,0.0,-9.34,87
+4,2026-04-21T22:39:02Z,Tuesday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,81437,True,False,False,False,trackdone,fwdbtn,0.452,0.319,0.378,83.46,0.702,0.023,0.003,-12.63,82
+4,2026-04-22T20:54:02Z,Wednesday,20,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,79340,True,False,False,False,trackdone,fwdbtn,0.462,0.323,0.456,86.53,0.66,0.049,0.001,-10.75,73
+4,2026-04-22T22:35:32Z,Wednesday,22,Jo Tum Mere Ho,Anuv Jain,Jo Tum Mere Ho,Hindi,Indie,222506,False,False,False,False,trackdone,trackdone,0.447,0.362,0.493,82.36,0.642,0.03,0.0,-11.18,69
+4,2026-04-23T00:40:08Z,Thursday,0,Brown Munde,AP Dhillon,Brown Munde,Hindi,Punjabi,51181,True,True,False,False,trackdone,fwdbtn,0.796,0.768,0.627,117.09,0.136,0.127,0.0,-4.81,88
+4,2026-04-23T22:02:23Z,Thursday,22,Obsessed,Riar Saab,Obsessed,Hindi,Punjabi,201685,False,True,True,False,fwdbtn,endplay,0.751,0.676,0.65,110.53,0.212,0.103,0.012,-5.98,77
+4,2026-04-24T20:49:45Z,Friday,20,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,173025,False,True,False,False,trackdone,trackdone,0.767,0.65,0.633,122.73,0.055,0.1,0.001,-6.93,80
+4,2026-04-25T21:54:57Z,Saturday,21,Heat Waves,Glass Animals,Dreamland,English,Indie,31210,True,False,False,True,clickrow,fwdbtn,0.756,0.709,0.515,88.91,0.167,0.079,0.0,-3.23,73
+4,2026-04-26T18:15:42Z,Sunday,18,Night Changes,One Direction,FOUR,English,Pop,83974,True,True,False,False,clickrow,fwdbtn,0.586,0.497,0.562,119.6,0.265,0.024,0.001,-9.46,70
+4,2026-04-26T20:16:42Z,Sunday,20,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,129733,False,False,False,False,backbtn,endplay,0.745,0.682,0.771,115.58,0.276,0.123,0.001,-7.23,73
+4,2026-04-27T07:10:06Z,Monday,7,Husn,Anuv Jain,Husn,Hindi,Indie,152488,False,False,False,False,trackdone,trackdone,0.471,0.313,0.271,85.79,0.765,0.024,0.0,-13.89,69
+4,2026-04-27T23:42:35Z,Monday,23,Night Changes,One Direction,FOUR,English,Pop,86967,True,True,False,False,trackdone,fwdbtn,0.569,0.452,0.609,125.17,0.229,0.061,0.0,-8.94,75
+4,2026-04-28T09:10:22Z,Tuesday,9,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,173123,False,False,False,False,trackdone,trackdone,0.523,0.41,0.606,89.68,0.402,0.03,0.0,-8.95,80
+4,2026-04-30T01:34:59Z,Thursday,1,Soulmate,Badshah,Ek Tha Raja,Hindi,Hindi Pop,70672,True,True,False,False,trackdone,fwdbtn,0.749,0.711,0.672,115.52,0.083,0.132,0.0,-7.17,72
+4,2026-04-30T17:24:37Z,Thursday,17,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,115083,True,True,False,False,clickrow,fwdbtn,0.546,0.482,0.625,87.91,0.463,0.03,0.0,-8.4,68
+4,2026-04-30T22:42:45Z,Thursday,22,Raabta,Arijit Singh,Agent Vinod,Hindi,Bollywood,239073,False,True,False,False,trackdone,trackdone,0.557,0.498,0.63,90.13,0.392,0.047,0.0,-10.16,68
+4,2026-04-30T22:48:57Z,Thursday,22,Softly,Karan Aujla,Making Memories,Hindi,Punjabi,156519,False,True,False,False,clickrow,trackdone,0.72,0.755,0.569,118.54,0.092,0.107,0.01,-5.5,77
