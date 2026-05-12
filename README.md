@@ -22,12 +22,14 @@ This project investigates whether distinct **"listening modes"** exist in the mu
 │   ├── spotify-history-2.csv       # Member 2 listening history (enriched)
 │   ├── spotify-history-3.csv       # Member 3 listening history (enriched)
 │   ├── spotify-history-4.csv       # Member 4 listening history (enriched)
-│   ├── spotify_clustered_cleaned.csv  # Final dataset with cluster assignments
 │   └── raw_exports/                # Raw Spotify exports (before API enrichment)
 │       ├── raw_spotify-history-1.csv
 │       ├── raw_spotify-history-2.csv
 │       ├── raw_spotify-history-3.csv
 │       └── raw_spotify-history-4.csv
+│
+├── output/
+│   └── spotify_clustered_cleaned.csv  # Final dataset with cluster assignments
 │
 ├── spotify_pipeline.ipynb          # ⭐ Main Analysis Notebook (6 Phases)
 ├── spotify_analysis.py             # Source code for the notebook

@@ -379,7 +379,10 @@ rules.sort_values('lift', ascending=False).head(10)[['antecedents', 'consequents
 """
 
 # %%
-# Exporting the cleaned and clustered dataset for Tableau/PowerBI or further presentation
-df_clean.to_csv('data/spotify_clustered_cleaned.csv', index=False)
-print("Saved final dataset with cluster assignments to 'data/spotify_clustered_cleaned.csv'.")
+import os
+os.makedirs('output', exist_ok=True)
+
+# Exporting the cleaned and clustered dataset to the output folder
+df_clean.to_csv('output/spotify_clustered_cleaned.csv', index=False)
+print("Saved final dataset with cluster assignments to 'output/spotify_clustered_cleaned.csv'.")
 print("Analysis Pipeline Complete.")
