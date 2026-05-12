@@ -4,7 +4,7 @@ Data Collection Pipeline (Spotify API)
 As per the guidelines, this script demonstrates the pipeline used to enrich the 
 raw Spotify listening history with audio features via the Spotify Web API.
 
-Note: To execute this live, you need to install spotipy (`pip install spotipy`)
+Note: To use this live, you need to install spotipy (`pip install spotipy`)
 and set your SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET.
 """
 
@@ -14,15 +14,16 @@ import pandas as pd
 import time
 import os
 
-# Initialize Spotify API client
-# Uncomment and set these if running live:
-# os.environ['SPOTIPY_CLIENT_ID'] = 'your_client_id_here'
-# os.environ['SPOTIPY_CLIENT_SECRET'] = 'your_client_secret_here'
+from dotenv import load_dotenv
+
+# Load credentials from .env file
+load_dotenv()
 
 try:
+    # Spotipy automatically looks for SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET in environment variables
     sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 except Exception as e:
-    print("Spotify credentials not found in environment. This is a demonstration script.")
+    print("Spotify credentials not found. Ensure you have a .env file with SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET.")
 
 def fetch_audio_features(track_uris):
     """
