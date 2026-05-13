@@ -265,13 +265,35 @@ df_clean['cluster'] = final_model.fit_predict(X_scaled)
 # Profiling the clusters (calculating median of original unscaled features)
 cluster_profiles = df_clean.groupby('cluster')[continuous_features].median()
 
+# -----------------------------------------------------------------------
+# CLUSTER NAMING — Update these names after inspecting the heatmap below.
+# Look at each cluster's median values to assign a human-readable label.
+# Example logic:
+#   High energy + high tempo + low acousticness  → "High Energy / Workout"
+#   Low energy + high acousticness + late hour   → "Night Chill / Study"
+#   High valence + high popularity               → "Upbeat / Mainstream"
+#   Low ms_played + high skipped                 → "Casual Browse"
+# -----------------------------------------------------------------------
+cluster_names = {
+    0: "Cluster 0 — [Name after viewing heatmap]",
+    1: "Cluster 1 — [Name after viewing heatmap]",
+    2: "Cluster 2 — [Name after viewing heatmap]",
+    3: "Cluster 3 — [Name after viewing heatmap]",
+}
+df_clean['cluster_label'] = df_clean['cluster'].map(cluster_names)
+
 # Heatmap of cluster medians for profiling
 plt.figure(figsize=(10, 6))
 sns.heatmap(StandardScaler().fit_transform(cluster_profiles), 
             annot=True, cmap='viridis', fmt=".2f", 
-            xticklabels=continuous_features, yticklabels=[f"Cluster {i}" for i in range(OPTIMAL_K)])
+            xticklabels=continuous_features, 
+            yticklabels=[cluster_names[i] for i in range(OPTIMAL_K)])
 plt.title("Cluster Profiles (Standardized Medians)", fontsize=14)
+plt.tight_layout()
 plt.show()
+
+print("\nCluster size distribution:")
+print(df_clean['cluster_label'].value_counts())
 
 # %%
 """
