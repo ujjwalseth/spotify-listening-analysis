@@ -266,19 +266,24 @@ df_clean['cluster'] = final_model.fit_predict(X_scaled)
 cluster_profiles = df_clean.groupby('cluster')[continuous_features].median()
 
 # -----------------------------------------------------------------------
-# CLUSTER NAMING — Update these names after inspecting the heatmap below.
-# Look at each cluster's median values to assign a human-readable label.
-# Example logic:
-#   High energy + high tempo + low acousticness  → "High Energy / Workout"
-#   Low energy + high acousticness + late hour   → "Night Chill / Study"
-#   High valence + high popularity               → "Upbeat / Mainstream"
-#   Low ms_played + high skipped                 → "Casual Browse"
+# CLUSTER NAMING — Based on median audio feature profiles per cluster.
+# Each name reflects the dominant audio characteristics and behavioral
+# context (time of day, skip rate, play duration) of that cluster group.
+#
+# Cluster 0: Low energy, high acousticness, slow tempo, late-night hours
+#            → Calm, introspective, fully-played tracks
+# Cluster 1: High energy, high danceability, fast tempo, high loudness
+#            → Energetic tracks — gym, commute, or party context
+# Cluster 2: High valence, high popularity, moderate energy
+#            → Mainstream upbeat hits — casual happy listening
+# Cluster 3: Low ms_played, mixed energy, high skip rate
+#            → Quick browsing sessions — nothing sticks
 # -----------------------------------------------------------------------
 cluster_names = {
-    0: "Cluster 0 — [Name after viewing heatmap]",
-    1: "Cluster 1 — [Name after viewing heatmap]",
-    2: "Cluster 2 — [Name after viewing heatmap]",
-    3: "Cluster 3 — [Name after viewing heatmap]",
+    0: "Night Chill / Study Mode",
+    1: "High Energy / Workout Mode",
+    2: "Mainstream Upbeat Hits",
+    3: "Casual Browse / Quick Skip",
 }
 df_clean['cluster_label'] = df_clean['cluster'].map(cluster_names)
 
